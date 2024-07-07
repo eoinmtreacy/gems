@@ -1,0 +1,484 @@
+d:assets:assets:0:application/unknown:1
+i:1x1.png:1x1-edf380b51c9e565552113d1c504cc3a8.png:531:image/png:1
+i:arrow.png:arrow-bf941cdf722e43fd93cab5b7dde5b275.png:969:image/png:1
+a:backgroundmusic.mp3:backgroundmusic-7d2badb0b353dae3c0b592b63a2141e3.mp3:3334262:audio/mpeg:1
+d:bicycle:bicycle:0:application/unknown:1
+i:bicycle/bike_down1.png:bicycle/bike_down1-f5be521432ba15d05f0f1f7fbd970f48.png:494:image/png:1
+i:bicycle/bike_down2.png:bicycle/bike_down2-3d0b1dc9a39c36351022aee383f59259.png:498:image/png:1
+i:bicycle/bike_left1.png:bicycle/bike_left1-468c9066f274963c43d6148ed3999b5e.png:1500:image/png:1
+i:bicycle/bike_left2.png:bicycle/bike_left2-c7c8f20f141ddefff20dddba00f650e4.png:1564:image/png:1
+i:bicycle/bike_right1.png:bicycle/bike_right1-9a1768f7105051e1c6de024ff238c778.png:1513:image/png:1
+i:bicycle/bike_right2.png:bicycle/bike_right2-0989067b8a8f181c3c04aa1ed498a67f.png:1567:image/png:1
+i:bicycle/bike_up1.png:bicycle/bike_up1-38d374e0f448423d2c78ed21853da1e9.png:514:image/png:1
+i:bicycle/bike_up2.png:bicycle/bike_up2-a2da60841ea910d9fbe628f5679ea448.png:518:image/png:1
+b:bigMap.tmx:bigMap-0eeb9b77780ea5fb698495f9ac1d37bf.tmx:966304:application/unknown:1
+b:bigMapTesting.tmx:bigMapTesting-32b33ac18c83dbfd267750452a115894.tmx:966260:application/unknown:1
+a:bikebell.mp3:bikebell-0d0c1a6801a863fe5797ab54546eb6d9.mp3:130447:audio/mpeg:1
+d:bus:bus:0:application/unknown:1
+i:bus/bus_down.png:bus/bus_down-6aba38a5b8ace8c96c95a09198ed0984.png:4785:image/png:1
+i:bus/bus_left.png:bus/bus_left-99ad4703ff86fcabf9fbc8760e826eea.png:4651:image/png:1
+i:bus/bus_right.png:bus/bus_right-6f066e34c64be39963d32aff0ccd7d65.png:4612:image/png:1
+i:bus/bus_up.png:bus/bus_up-63c6d9a0dcd14479110f77bdaacecaba.png:4825:image/png:1
+i:busstop.png:busstop-89bd70b3a972a02656bee6a8a111b8e1.png:459:image/png:1
+d:car:car:0:application/unknown:1
+i:car/car_down.png:car/car_down-4867cf006c7c7b859e147c9193325000.png:605:image/png:1
+i:car/car_left.png:car/car_left-bfbaff7329a80a7bb82243b53cb96e54.png:985:image/png:1
+i:car/car_right.png:car/car_right-f2630e67a0d12d28baf8b86858696c6e.png:986:image/png:1
+i:car/car_up.png:car/car_up-690867d942e6089ae59e66c10c5bd946.png:564:image/png:1
+a:carhorn.mp3:carhorn-c1c7dde3e26e4bc80093762b65af0b6d.mp3:23405:audio/mpeg:1
+b:citySpritesTileSet.tsx:citySpritesTileSet-f7136d2da064091ca8b1ffab30b7e08c.tsx:255:application/unknown:1
+i:citySpritesUncut.png:citySpritesUncut-7c4b34b7b2f0d7e06e8c0ef511f56d51.png:42129:image/png:1
+t:default.fnt:default-301cd793092dcaaafd793b66d5d46060.fnt:11628:application/unknown:1
+i:Empty.png:Empty-c9477b1f1820f9acfb93eebb2e6679c2.png:142:image/png:1
+d:environmentFacts:environmentFacts:0:application/unknown:1
+t:environmentFacts/bike.txt:environmentFacts/bike-b2a6541fecebb5ad26342f0fa0ddf08d.txt:2702:text/plain:1
+t:environmentFacts/bus.txt:environmentFacts/bus-4fc2d318f981f9d2731c8a132e5e9902.txt:2579:text/plain:1
+t:environmentFacts/car.txt:environmentFacts/car-5aa809471f782c095d764f3642d10d63.txt:2586:text/plain:1
+t:environmentFacts/generic.txt:environmentFacts/generic-5a9a328cb700f0de6708b0ae4d6e94f2.txt:146:text/plain:1
+t:environmentFacts/luas.txt:environmentFacts/luas-9f12bdc94cf686c822ebe1edd36f6047.txt:2427:text/plain:1
+b:finalDraft.tmx:finalDraft-0b0eaa025d63ee5124ae3f33d5facbec.tmx:1604296:application/unknown:1
+b:finalDraft_buildings.tmx:finalDraft_buildings-b99395467ef0e78cf67ba1d3513110c9.tmx:487312:application/unknown:1
+d:fonts:fonts:0:application/unknown:1
+t:fonts/font.fnt:fonts/font-1cbcac4c9d8434ec7d70a24d54653e8c.fnt:10900:application/unknown:1
+i:fonts/font.png:fonts/font-28ef8e16867b8a2c20a2ae61277977e0.png:4494:image/png:1
+b:fonts/game_font.ttf:fonts/game_font-1e40420a18ac9f082d633b144f36b3cf.ttf:9108:application/unknown:1
+d:foot:foot:0:application/unknown:1
+i:foot/player_down1.png:foot/player_down1-343a47c595c1297cb3c0892484d0339f.png:408:image/png:1
+i:foot/player_down2.png:foot/player_down2-77da38426a9bcd9e691c636665adc22c.png:411:image/png:1
+i:foot/player_left1.png:foot/player_left1-05ee000ad97b975c77b17641f165d4ac.png:993:image/png:1
+i:foot/player_left2.png:foot/player_left2-be2b92e434f5d71cef111e28bd5d6439.png:403:image/png:1
+i:foot/player_right1.png:foot/player_right1-99f1ff2c5c09f57a64bac36bb559294e.png:981:image/png:1
+i:foot/player_right2.png:foot/player_right2-eaf1d1f8fa936a24cc07aa9f6d97bc3e.png:763:image/png:1
+i:foot/player_up1.png:foot/player_up1-c9ea5f230405a3457670d1ce1b617429.png:391:image/png:1
+i:foot/player_up2.png:foot/player_up2-4b9c943ee3f7ff72b79a3208db61cf88.png:391:image/png:1
+i:gem.png:gem-63c58a6ba0820aa1d99f646a1b2f51f0.png:453:image/png:1
+i:grass1.png:grass1-b3a78064e97abee28f8d70f93278e265.png:1981:image/png:1
+b:grass1.tsx:grass1-14f43ef7c7111fe4168ea1fe43609fec.tsx:225:application/unknown:1
+d:levels:levels:0:application/unknown:1
+t:levels/aida.json:levels/aida-9f43458b8ba68e8defa9570e8f566684.json:1434:application/json:1
+t:levels/eoinLevel.txt:levels/eoinLevel-357aa041628843201d27744d7c9a4565.txt:529:text/plain:1
+t:levels/introlevels.txt:levels/introlevels-a69ec4a49ccf68198ee4f9262f81ceab.txt:2702:text/plain:1
+t:levels/levels.json:levels/levels-d920f1e8110a9b4534b8d0e14fe757c8.json:6472:application/json:1
+t:levels/mapTour.txt:levels/mapTour-84e1a2694a8a1864bd6f3c4eedba3aeb.txt:1027:text/plain:1
+t:levels/michaelLevel.json:levels/michaelLevel-a907295f81484ed38a2aa76d30166180.json:740:application/json:1
+d:luas:luas:0:application/unknown:1
+i:luas/luas_down.png:luas/luas_down-c6a7413800f5e4813cb58e7be1f7f457.png:4937:image/png:1
+i:luas/luas_left.png:luas/luas_left-932faf1a1d62186a3f4ea5f197c16c32.png:4592:image/png:1
+i:luas/luas_right.png:luas/luas_right-e402d4dc78e29c0306510ca207ad7cbe.png:4305:image/png:1
+i:luas/luas_up.png:luas/luas_up-62d54ffbae4d8df32300bb00085946e3.png:4918:image/png:1
+a:mainmenugroove.mp3:mainmenugroove-6fd629c7a4ea767f12c1a14da52693e4.mp3:4353024:audio/mpeg:1
+d:maps:maps:0:application/unknown:1
+b:maps/AdventureBegins_Demo.tsx:maps/AdventureBegins_Demo-f170c920d201a701f236017e313024e5.tsx:269:application/unknown:1
+b:maps/bus1.tsx:maps/bus1-7aee84fd417fd4cf8c2d693cb1dedc35.tsx:258:application/unknown:1
+b:maps/Castle_Purple.tsx:maps/Castle_Purple-0b2bebb008bc3b75266faba5a552817b.tsx:314:application/unknown:1
+b:maps/cowboySet.tsx:maps/cowboySet-5f434fa425f36c061125a8e2269dfceb.tsx:244:application/unknown:1
+b:maps/Cross_01.tsx:maps/Cross_01-88cffb64a8c95569530d1726a0def955.tsx:242:application/unknown:1
+b:maps/Dark-grass-tileset.tsx:maps/Dark-grass-tileset-505389eb49cbe31f2c0dd705ed0a74d4.tsx:265:application/unknown:1
+b:maps/farmSet.tsx:maps/farmSet-5fb65b14adcdb7c411f1e12164466268.tsx:253:application/unknown:1
+b:maps/Gravestone_02.tsx:maps/Gravestone_02-626ab94468063272e749ba6789dbbeab.tsx:251:application/unknown:1
+b:maps/Gravestone_04.tsx:maps/Gravestone_04-b400f061ab141786980dd64ab75ed8ec.tsx:251:application/unknown:1
+b:maps/Gravestone_07.tsx:maps/Gravestone_07-2d19c71dd839dc94ff78c05711d4a983.tsx:250:application/unknown:1
+b:maps/Grave_plate_01.tsx:maps/Grave_plate_01-446d838cfaff13d430877f265878b96b.tsx:253:application/unknown:1
+b:maps/mainMenuMap.tmx:maps/mainMenuMap-143819c18bf9ebf07c2db5fd6d91c5d8.tmx:1061082:application/unknown:1
+d:maps/mapSprites:maps/mapSprites:0:application/unknown:1
+i:maps/mapSprites/AdventureBegins_Demo.png:maps/mapSprites/AdventureBegins_Demo-6e1ca3988de1af6c47b3fb449c431f0a.png:52990:image/png:1
+d:maps/mapSprites/AdventureBegins_DemoVersion:maps/mapSprites/AdventureBegins_DemoVersion:0:application/unknown:1
+i:maps/mapSprites/AdventureBegins_DemoVersion/Adv&Adv_demo - Copy.png:maps/mapSprites/AdventureBegins_DemoVersion/Adv&Adv_demo - Copy-9d27c09cd7d27cefe942d015285f09e3.png:29723:image/png:1
+i:maps/mapSprites/AdventureBegins_DemoVersion/Adv&Adv_demo.png:maps/mapSprites/AdventureBegins_DemoVersion/Adv&Adv_demo-9d27c09cd7d27cefe942d015285f09e3.png:29723:image/png:1
+t:maps/mapSprites/AdventureBegins_DemoVersion/ADVENTURE BEGINS Demo - License - Copy.txt:maps/mapSprites/AdventureBegins_DemoVersion/ADVENTURE BEGINS Demo - License - Copy-0ea807a723ed51f96b7fc4d96522695a.txt:2319:text/plain:1
+t:maps/mapSprites/AdventureBegins_DemoVersion/ADVENTURE BEGINS Demo - License.txt:maps/mapSprites/AdventureBegins_DemoVersion/ADVENTURE BEGINS Demo - License-0ea807a723ed51f96b7fc4d96522695a.txt:2319:text/plain:1
+i:maps/mapSprites/AdventureBegins_DemoVersion/AdventureBegins_Demo - Copy.png:maps/mapSprites/AdventureBegins_DemoVersion/AdventureBegins_Demo - Copy-6e1ca3988de1af6c47b3fb449c431f0a.png:52990:image/png:1
+i:maps/mapSprites/Atlas.png:maps/mapSprites/Atlas-1bd4dfa94f4f2b680d5d76667f2f2d76.png:55886:image/png:1
+i:maps/mapSprites/Column_01.png:maps/mapSprites/Column_01-414c2ed882a28f7d7224163470ace501.png:4660:image/png:1
+i:maps/mapSprites/Cross_01.png:maps/mapSprites/Cross_01-06389d871ed18b4db73f040c964aaa43.png:4470:image/png:1
+i:maps/mapSprites/Dark-grass-tileset.png:maps/mapSprites/Dark-grass-tileset-cd261cc507f7413f231aa36a8951661b.png:7912:image/png:1
+d:maps/mapSprites/free version:maps/mapSprites/free version:0:application/unknown:1
+i:maps/mapSprites/free version/free.png:maps/mapSprites/free version/free-8f545866d2ba5fc14ec5ae90af4501c0.png:14951:image/png:1
+t:maps/mapSprites/free version/read me.txt:maps/mapSprites/free version/read me-f292532aff02f8f018fdebae7f72b454.txt:92:text/plain:1
+i:maps/mapSprites/Gravestone_01.png:maps/mapSprites/Gravestone_01-f61ba49eb0309dd1f63fc88b51a20e28.png:3497:image/png:1
+i:maps/mapSprites/Gravestone_02.png:maps/mapSprites/Gravestone_02-fc3d59f55eeaa433ef18d2610d113b6b.png:3980:image/png:1
+i:maps/mapSprites/Gravestone_03.png:maps/mapSprites/Gravestone_03-aa1e90dfd6b5977aa582f413b54105d6.png:4130:image/png:1
+i:maps/mapSprites/Gravestone_04.png:maps/mapSprites/Gravestone_04-b5f6c17cdac7c286ee5806d13cb1ed54.png:4382:image/png:1
+i:maps/mapSprites/Gravestone_05.png:maps/mapSprites/Gravestone_05-d2f1587981edb0e5867e95a8c1752f79.png:3786:image/png:1
+i:maps/mapSprites/Gravestone_06.png:maps/mapSprites/Gravestone_06-b8207fb187be7c05380b4cf92106ef32.png:3940:image/png:1
+i:maps/mapSprites/Gravestone_07.png:maps/mapSprites/Gravestone_07-0e872e379bb850c79789c0f1e4e38179.png:3372:image/png:1
+i:maps/mapSprites/Gravestone_08.png:maps/mapSprites/Gravestone_08-d292ba0fc5b983019ca6581e0f18a28f.png:3466:image/png:1
+i:maps/mapSprites/Gravestone_09.png:maps/mapSprites/Gravestone_09-e05907b6eeb5394b6ee5c8f30d3ba044.png:3693:image/png:1
+i:maps/mapSprites/Grave_plate_01.png:maps/mapSprites/Grave_plate_01-84f8554189b13e046bde88f864f42048.png:3534:image/png:1
+d:maps/mapSprites/Pixel Lands Village Demo:maps/mapSprites/Pixel Lands Village Demo:0:application/unknown:1
+i:maps/mapSprites/Pixel Lands Village Demo/ground_demo.png:maps/mapSprites/Pixel Lands Village Demo/ground_demo-44e3b38f10ec0bd24e2be37fe49d3b1f.png:3400:image/png:1
+t:maps/mapSprites/Pixel Lands Village Demo/INFO.txt:maps/mapSprites/Pixel Lands Village Demo/INFO-1941f7ab19389aff8ae68829f7b7dc21.txt:599:text/plain:1
+i:maps/mapSprites/Pixel Lands Village Demo/objects_demo.png:maps/mapSprites/Pixel Lands Village Demo/objects_demo-78192140275740115a45fb6c2d2267f7.png:11363:image/png:1
+i:maps/mapSprites/Pixel Lands Village Demo/premade_buildings_demo.png:maps/mapSprites/Pixel Lands Village Demo/premade_buildings_demo-16f8c5746ad49987a577dd5a0d06de05.png:11404:image/png:1
+i:maps/mapSprites/Pixel Lands Village Demo/walls_roofs_doors_demo.png:maps/mapSprites/Pixel Lands Village Demo/walls_roofs_doors_demo-a9c45cb785ef8188e0466f2ceb36c076.png:12916:image/png:1
+i:maps/mapSprites/pixil-frame-0 (2).png:maps/mapSprites/pixil-frame-0 (2)-64105fe2a147c8dcb337e9456d8970c9.png:599:image/png:1
+i:maps/mapSprites/pixil-frame-0 (3).png:maps/mapSprites/pixil-frame-0 (3)-012179a4623fa6f8b90c08d368f0193c.png:1254:image/png:1
+i:maps/mapSprites/RPG Nature Tileset.png:maps/mapSprites/RPG Nature Tileset-4ad9d4a2daf95c131005d824aab1dfd6.png:34018:image/png:1
+i:maps/mapSprites/Sculpture_01.png:maps/mapSprites/Sculpture_01-5a6872ef0ddb5788b71e6d031f6a10b2.png:6508:image/png:1
+b:maps/mapSprites/Stone_cemetery.rar:maps/mapSprites/Stone_cemetery-6f5845672049f95563f005ee947983bb.rar:538767:application/vnd.rar:1
+d:maps/mapSprites/Tiny Swords (Update 010):maps/mapSprites/Tiny Swords (Update 010):0:application/unknown:1
+d:maps/mapSprites/Tiny Swords (Update 010)/Deco:maps/mapSprites/Tiny Swords (Update 010)/Deco:0:application/unknown:1
+i:maps/mapSprites/Tiny Swords (Update 010)/Deco/01.png:maps/mapSprites/Tiny Swords (Update 010)/Deco/01-30425eb2315ca6463d8a73342be1460d.png:464:image/png:1
+i:maps/mapSprites/Tiny Swords (Update 010)/Deco/02.png:maps/mapSprites/Tiny Swords (Update 010)/Deco/02-28813c16ca0fc12a7100b26f78b3083b.png:607:image/png:1
+i:maps/mapSprites/Tiny Swords (Update 010)/Deco/03.png:maps/mapSprites/Tiny Swords (Update 010)/Deco/03-7b40b3350b40e2ee81f3f71a5b7fb76f.png:791:image/png:1
+i:maps/mapSprites/Tiny Swords (Update 010)/Deco/04.png:maps/mapSprites/Tiny Swords (Update 010)/Deco/04-af05e76b9f7e47fe6813103d397d0008.png:433:image/png:1
+i:maps/mapSprites/Tiny Swords (Update 010)/Deco/05.png:maps/mapSprites/Tiny Swords (Update 010)/Deco/05-5bdf6e9bf2e8273e8180b6a07b8bf75a.png:571:image/png:1
+i:maps/mapSprites/Tiny Swords (Update 010)/Deco/06.png:maps/mapSprites/Tiny Swords (Update 010)/Deco/06-19d740b3361e98db2a9e653bfacc0327.png:794:image/png:1
+i:maps/mapSprites/Tiny Swords (Update 010)/Deco/07.png:maps/mapSprites/Tiny Swords (Update 010)/Deco/07-a81fce94d68ce8367eeac0f680311a5b.png:670:image/png:1
+i:maps/mapSprites/Tiny Swords (Update 010)/Deco/08.png:maps/mapSprites/Tiny Swords (Update 010)/Deco/08-387356221c3dc4607a9a0d5f5d7d9c54.png:830:image/png:1
+i:maps/mapSprites/Tiny Swords (Update 010)/Deco/09.png:maps/mapSprites/Tiny Swords (Update 010)/Deco/09-5c1dc2aa1c93db5e25ca9f949c97928a.png:1196:image/png:1
+i:maps/mapSprites/Tiny Swords (Update 010)/Deco/10.png:maps/mapSprites/Tiny Swords (Update 010)/Deco/10-9f49bc376b9aedc5ccd3edf879258547.png:634:image/png:1
+i:maps/mapSprites/Tiny Swords (Update 010)/Deco/11.png:maps/mapSprites/Tiny Swords (Update 010)/Deco/11-74630cc2341dfa00921af0d7445f5d39.png:879:image/png:1
+i:maps/mapSprites/Tiny Swords (Update 010)/Deco/12.png:maps/mapSprites/Tiny Swords (Update 010)/Deco/12-ad62fad2f492f4deacd49daa54541652.png:996:image/png:1
+i:maps/mapSprites/Tiny Swords (Update 010)/Deco/13.png:maps/mapSprites/Tiny Swords (Update 010)/Deco/13-f0978017d564e10ce4a5e0c937643053.png:1157:image/png:1
+i:maps/mapSprites/Tiny Swords (Update 010)/Deco/14.png:maps/mapSprites/Tiny Swords (Update 010)/Deco/14-6682ebe7d3abdbf33c2b32d1fa322a94.png:612:image/png:1
+i:maps/mapSprites/Tiny Swords (Update 010)/Deco/15.png:maps/mapSprites/Tiny Swords (Update 010)/Deco/15-c942f95c9b81f1e3ef7f42c3d25441d6.png:523:image/png:1
+i:maps/mapSprites/Tiny Swords (Update 010)/Deco/16.png:maps/mapSprites/Tiny Swords (Update 010)/Deco/16-4478514e74978b51007629a8ab1610c0.png:2102:image/png:1
+i:maps/mapSprites/Tiny Swords (Update 010)/Deco/17.png:maps/mapSprites/Tiny Swords (Update 010)/Deco/17-a5d9a98888a866239320f783d71da2cf.png:2023:image/png:1
+i:maps/mapSprites/Tiny Swords (Update 010)/Deco/18.png:maps/mapSprites/Tiny Swords (Update 010)/Deco/18-622e888cf027cbcb0c812e0cb7a66a91.png:3595:image/png:1
+d:maps/mapSprites/Tiny Swords (Update 010)/Effects:maps/mapSprites/Tiny Swords (Update 010)/Effects:0:application/unknown:1
+d:maps/mapSprites/Tiny Swords (Update 010)/Effects/Explosion:maps/mapSprites/Tiny Swords (Update 010)/Effects/Explosion:0:application/unknown:1
+b:maps/mapSprites/Tiny Swords (Update 010)/Effects/Explosion/Explosions.aseprite:maps/mapSprites/Tiny Swords (Update 010)/Effects/Explosion/Explosions-5e7fee1e50083de29e2cdfbf6b975613.aseprite:9149:application/unknown:1
+i:maps/mapSprites/Tiny Swords (Update 010)/Effects/Explosion/Explosions.png:maps/mapSprites/Tiny Swords (Update 010)/Effects/Explosion/Explosions-5af896be5192adea5f709ab9698c0ef3.png:12547:image/png:1
+d:maps/mapSprites/Tiny Swords (Update 010)/Effects/Fire:maps/mapSprites/Tiny Swords (Update 010)/Effects/Fire:0:application/unknown:1
+b:maps/mapSprites/Tiny Swords (Update 010)/Effects/Fire/Fire.aseprite:maps/mapSprites/Tiny Swords (Update 010)/Effects/Fire/Fire-ea074a3fec8fbdfc186ff822d26ea424.aseprite:5238:application/unknown:1
+i:maps/mapSprites/Tiny Swords (Update 010)/Effects/Fire/Fire.png:maps/mapSprites/Tiny Swords (Update 010)/Effects/Fire/Fire-5d523bcf372c21bf945d18a15a9eb663.png:6273:image/png:1
+d:maps/mapSprites/Tiny Swords (Update 010)/Factions:maps/mapSprites/Tiny Swords (Update 010)/Factions:0:application/unknown:1
+d:maps/mapSprites/Tiny Swords (Update 010)/Factions/Goblins:maps/mapSprites/Tiny Swords (Update 010)/Factions/Goblins:0:application/unknown:1
+d:maps/mapSprites/Tiny Swords (Update 010)/Factions/Goblins/Buildings:maps/mapSprites/Tiny Swords (Update 010)/Factions/Goblins/Buildings:0:application/unknown:1
+d:maps/mapSprites/Tiny Swords (Update 010)/Factions/Goblins/Buildings/Wood_House:maps/mapSprites/Tiny Swords (Update 010)/Factions/Goblins/Buildings/Wood_House:0:application/unknown:1
+i:maps/mapSprites/Tiny Swords (Update 010)/Factions/Goblins/Buildings/Wood_House/Goblin_House.png:maps/mapSprites/Tiny Swords (Update 010)/Factions/Goblins/Buildings/Wood_House/Goblin_House-46ae6a556e9494059ba2f2083d4e1e91.png:5320:image/png:1
+i:maps/mapSprites/Tiny Swords (Update 010)/Factions/Goblins/Buildings/Wood_House/Goblin_House_Destroyed.png:maps/mapSprites/Tiny Swords (Update 010)/Factions/Goblins/Buildings/Wood_House/Goblin_House_Destroyed-f334863e83f6d509afca1e6139817f0d.png:3743:image/png:1
+d:maps/mapSprites/Tiny Swords (Update 010)/Factions/Goblins/Buildings/Wood_Tower:maps/mapSprites/Tiny Swords (Update 010)/Factions/Goblins/Buildings/Wood_Tower:0:application/unknown:1
+b:maps/mapSprites/Tiny Swords (Update 010)/Factions/Goblins/Buildings/Wood_Tower/Wood_Tower_Blue.aseprite:maps/mapSprites/Tiny Swords (Update 010)/Factions/Goblins/Buildings/Wood_Tower/Wood_Tower_Blue-9ee5505c5d7e21de9d90e282fae845a0.aseprite:23418:application/unknown:1
+i:maps/mapSprites/Tiny Swords (Update 010)/Factions/Goblins/Buildings/Wood_Tower/Wood_Tower_Blue.png:maps/mapSprites/Tiny Swords (Update 010)/Factions/Goblins/Buildings/Wood_Tower/Wood_Tower_Blue-7bef889993a8393384110d50418d111b.png:12043:image/png:1
+i:maps/mapSprites/Tiny Swords (Update 010)/Factions/Goblins/Buildings/Wood_Tower/Wood_Tower_Destroyed.png:maps/mapSprites/Tiny Swords (Update 010)/Factions/Goblins/Buildings/Wood_Tower/Wood_Tower_Destroyed-5af54449737fe84307e80577c39cacb7.png:4631:image/png:1
+i:maps/mapSprites/Tiny Swords (Update 010)/Factions/Goblins/Buildings/Wood_Tower/Wood_Tower_InConstruction.png:maps/mapSprites/Tiny Swords (Update 010)/Factions/Goblins/Buildings/Wood_Tower/Wood_Tower_InConstruction-81c3ffba9a1e9f6eecd18d20725eeeeb.png:3620:image/png:1
+b:maps/mapSprites/Tiny Swords (Update 010)/Factions/Goblins/Buildings/Wood_Tower/Wood_Tower_Purple.aseprite:maps/mapSprites/Tiny Swords (Update 010)/Factions/Goblins/Buildings/Wood_Tower/Wood_Tower_Purple-8ea086515567a054d3e5205a2bf19dba.aseprite:23419:application/unknown:1
+i:maps/mapSprites/Tiny Swords (Update 010)/Factions/Goblins/Buildings/Wood_Tower/Wood_Tower_Purple.png:maps/mapSprites/Tiny Swords (Update 010)/Factions/Goblins/Buildings/Wood_Tower/Wood_Tower_Purple-4ac2aed6fbceba088db3864d09686d94.png:12013:image/png:1
+b:maps/mapSprites/Tiny Swords (Update 010)/Factions/Goblins/Buildings/Wood_Tower/Wood_Tower_Red.aseprite:maps/mapSprites/Tiny Swords (Update 010)/Factions/Goblins/Buildings/Wood_Tower/Wood_Tower_Red-40d6c8095fc0ce9b7056028aad1e7be4.aseprite:23398:application/unknown:1
+i:maps/mapSprites/Tiny Swords (Update 010)/Factions/Goblins/Buildings/Wood_Tower/Wood_Tower_Red.png:maps/mapSprites/Tiny Swords (Update 010)/Factions/Goblins/Buildings/Wood_Tower/Wood_Tower_Red-0b3766e5c30d13eceb8e714a9daaf114.png:12084:image/png:1
+b:maps/mapSprites/Tiny Swords (Update 010)/Factions/Goblins/Buildings/Wood_Tower/Wood_Tower_Yellow.aseprite:maps/mapSprites/Tiny Swords (Update 010)/Factions/Goblins/Buildings/Wood_Tower/Wood_Tower_Yellow-48a89b6063d41cecbbecea1738c347fc.aseprite:23411:application/unknown:1
+i:maps/mapSprites/Tiny Swords (Update 010)/Factions/Goblins/Buildings/Wood_Tower/Wood_Tower_Yellow.png:maps/mapSprites/Tiny Swords (Update 010)/Factions/Goblins/Buildings/Wood_Tower/Wood_Tower_Yellow-866de01517205dcb5c1a27a0c485a925.png:12114:image/png:1
+d:maps/mapSprites/Tiny Swords (Update 010)/Factions/Goblins/Troops:maps/mapSprites/Tiny Swords (Update 010)/Factions/Goblins/Troops:0:application/unknown:1
+d:maps/mapSprites/Tiny Swords (Update 010)/Factions/Goblins/Troops/Barrel:maps/mapSprites/Tiny Swords (Update 010)/Factions/Goblins/Troops/Barrel:0:application/unknown:1
+d:maps/mapSprites/Tiny Swords (Update 010)/Factions/Goblins/Troops/Barrel/Blue:maps/mapSprites/Tiny Swords (Update 010)/Factions/Goblins/Troops/Barrel/Blue:0:application/unknown:1
+b:maps/mapSprites/Tiny Swords (Update 010)/Factions/Goblins/Troops/Barrel/Blue/Barrel_Blue.aseprite:maps/mapSprites/Tiny Swords (Update 010)/Factions/Goblins/Troops/Barrel/Blue/Barrel_Blue-599e327d59635f05972053e6ac354893.aseprite:26098:application/unknown:1
+i:maps/mapSprites/Tiny Swords (Update 010)/Factions/Goblins/Troops/Barrel/Blue/Barrel_Blue.png:maps/mapSprites/Tiny Swords (Update 010)/Factions/Goblins/Troops/Barrel/Blue/Barrel_Blue-765424d2b1a0a9253340674cdca84a92.png:28922:image/png:1
+d:maps/mapSprites/Tiny Swords (Update 010)/Factions/Goblins/Troops/Barrel/Purple:maps/mapSprites/Tiny Swords (Update 010)/Factions/Goblins/Troops/Barrel/Purple:0:application/unknown:1
+b:maps/mapSprites/Tiny Swords (Update 010)/Factions/Goblins/Troops/Barrel/Purple/Barrel_Purple.aseprite:maps/mapSprites/Tiny Swords (Update 010)/Factions/Goblins/Troops/Barrel/Purple/Barrel_Purple-ca2cf8ba55340a47b8362ab07dafd48a.aseprite:26141:application/unknown:1
+i:maps/mapSprites/Tiny Swords (Update 010)/Factions/Goblins/Troops/Barrel/Purple/Barrel_Purple.png:maps/mapSprites/Tiny Swords (Update 010)/Factions/Goblins/Troops/Barrel/Purple/Barrel_Purple-bd0600c9e90da7c6a8e22d61a522362f.png:28742:image/png:1
+d:maps/mapSprites/Tiny Swords (Update 010)/Factions/Goblins/Troops/Barrel/Red:maps/mapSprites/Tiny Swords (Update 010)/Factions/Goblins/Troops/Barrel/Red:0:application/unknown:1
+b:maps/mapSprites/Tiny Swords (Update 010)/Factions/Goblins/Troops/Barrel/Red/Barrel_Red.aseprite:maps/mapSprites/Tiny Swords (Update 010)/Factions/Goblins/Troops/Barrel/Red/Barrel_Red-b9a1dde4841b10131317a379c19af9a7.aseprite:26058:application/unknown:1
+i:maps/mapSprites/Tiny Swords (Update 010)/Factions/Goblins/Troops/Barrel/Red/Barrel_Red.png:maps/mapSprites/Tiny Swords (Update 010)/Factions/Goblins/Troops/Barrel/Red/Barrel_Red-03c229315dcf68edb1806041a17214b9.png:28807:image/png:1
+d:maps/mapSprites/Tiny Swords (Update 010)/Factions/Goblins/Troops/Barrel/Yellow:maps/mapSprites/Tiny Swords (Update 010)/Factions/Goblins/Troops/Barrel/Yellow:0:application/unknown:1
+b:maps/mapSprites/Tiny Swords (Update 010)/Factions/Goblins/Troops/Barrel/Yellow/Barrel_Yellow.aseprite:maps/mapSprites/Tiny Swords (Update 010)/Factions/Goblins/Troops/Barrel/Yellow/Barrel_Yellow-2cebcc8e058759929a062848d4f14963.aseprite:26130:application/unknown:1
+i:maps/mapSprites/Tiny Swords (Update 010)/Factions/Goblins/Troops/Barrel/Yellow/Barrel_Yellow.png:maps/mapSprites/Tiny Swords (Update 010)/Factions/Goblins/Troops/Barrel/Yellow/Barrel_Yellow-672333ac1ae1a9c6181ce6b475a9c240.png:28768:image/png:1
+d:maps/mapSprites/Tiny Swords (Update 010)/Factions/Goblins/Troops/TNT:maps/mapSprites/Tiny Swords (Update 010)/Factions/Goblins/Troops/TNT:0:application/unknown:1
+d:maps/mapSprites/Tiny Swords (Update 010)/Factions/Goblins/Troops/TNT/Blue:maps/mapSprites/Tiny Swords (Update 010)/Factions/Goblins/Troops/TNT/Blue:0:application/unknown:1
+b:maps/mapSprites/Tiny Swords (Update 010)/Factions/Goblins/Troops/TNT/Blue/TNT_Blue.aseprite:maps/mapSprites/Tiny Swords (Update 010)/Factions/Goblins/Troops/TNT/Blue/TNT_Blue-1dd22ce31fe5ba7f796e2c4470501e65.aseprite:39655:application/unknown:1
+i:maps/mapSprites/Tiny Swords (Update 010)/Factions/Goblins/Troops/TNT/Blue/TNT_Blue.png:maps/mapSprites/Tiny Swords (Update 010)/Factions/Goblins/Troops/TNT/Blue/TNT_Blue-5408462d8bad21417da15b542133aec2.png:30388:image/png:1
+d:maps/mapSprites/Tiny Swords (Update 010)/Factions/Goblins/Troops/TNT/Dynamite:maps/mapSprites/Tiny Swords (Update 010)/Factions/Goblins/Troops/TNT/Dynamite:0:application/unknown:1
+i:maps/mapSprites/Tiny Swords (Update 010)/Factions/Goblins/Troops/TNT/Dynamite/Dynamite.png:maps/mapSprites/Tiny Swords (Update 010)/Factions/Goblins/Troops/TNT/Dynamite/Dynamite-56f87f895884f86acd1335fed43868f0.png:1545:image/png:1
+d:maps/mapSprites/Tiny Swords (Update 010)/Factions/Goblins/Troops/TNT/Purple:maps/mapSprites/Tiny Swords (Update 010)/Factions/Goblins/Troops/TNT/Purple:0:application/unknown:1
+b:maps/mapSprites/Tiny Swords (Update 010)/Factions/Goblins/Troops/TNT/Purple/TNT_Purple.aseprite:maps/mapSprites/Tiny Swords (Update 010)/Factions/Goblins/Troops/TNT/Purple/TNT_Purple-4000fa54c25216bd4ca970d836b7b1b1.aseprite:39599:application/unknown:1
+i:maps/mapSprites/Tiny Swords (Update 010)/Factions/Goblins/Troops/TNT/Purple/TNT_Purple.png:maps/mapSprites/Tiny Swords (Update 010)/Factions/Goblins/Troops/TNT/Purple/TNT_Purple-386a4c563fc69f53a34669a0b1021f7d.png:30233:image/png:1
+d:maps/mapSprites/Tiny Swords (Update 010)/Factions/Goblins/Troops/TNT/Red:maps/mapSprites/Tiny Swords (Update 010)/Factions/Goblins/Troops/TNT/Red:0:application/unknown:1
+b:maps/mapSprites/Tiny Swords (Update 010)/Factions/Goblins/Troops/TNT/Red/TNT_Red.aseprite:maps/mapSprites/Tiny Swords (Update 010)/Factions/Goblins/Troops/TNT/Red/TNT_Red-c3ed4bf240752e33233e8e0956e4d79a.aseprite:39594:application/unknown:1
+i:maps/mapSprites/Tiny Swords (Update 010)/Factions/Goblins/Troops/TNT/Red/TNT_Red.png:maps/mapSprites/Tiny Swords (Update 010)/Factions/Goblins/Troops/TNT/Red/TNT_Red-8f82dde1d489178cfad2120ae1d77e5f.png:30377:image/png:1
+d:maps/mapSprites/Tiny Swords (Update 010)/Factions/Goblins/Troops/TNT/Yellow:maps/mapSprites/Tiny Swords (Update 010)/Factions/Goblins/Troops/TNT/Yellow:0:application/unknown:1
+b:maps/mapSprites/Tiny Swords (Update 010)/Factions/Goblins/Troops/TNT/Yellow/TNT_Yellow.aseprite:maps/mapSprites/Tiny Swords (Update 010)/Factions/Goblins/Troops/TNT/Yellow/TNT_Yellow-5331d57342302ac5b914e279ed3fa2d2.aseprite:39608:application/unknown:1
+i:maps/mapSprites/Tiny Swords (Update 010)/Factions/Goblins/Troops/TNT/Yellow/TNT_Yellow.png:maps/mapSprites/Tiny Swords (Update 010)/Factions/Goblins/Troops/TNT/Yellow/TNT_Yellow-2c112d1331b8b7035832426b8a988b1b.png:30668:image/png:1
+d:maps/mapSprites/Tiny Swords (Update 010)/Factions/Goblins/Troops/Torch:maps/mapSprites/Tiny Swords (Update 010)/Factions/Goblins/Troops/Torch:0:application/unknown:1
+d:maps/mapSprites/Tiny Swords (Update 010)/Factions/Goblins/Troops/Torch/Blue:maps/mapSprites/Tiny Swords (Update 010)/Factions/Goblins/Troops/Torch/Blue:0:application/unknown:1
+b:maps/mapSprites/Tiny Swords (Update 010)/Factions/Goblins/Troops/Torch/Blue/Torch_Blue.aseprite:maps/mapSprites/Tiny Swords (Update 010)/Factions/Goblins/Troops/Torch/Blue/Torch_Blue-9317277f1b243210a97778066176fef1.aseprite:58660:application/unknown:1
+i:maps/mapSprites/Tiny Swords (Update 010)/Factions/Goblins/Troops/Torch/Blue/Torch_Blue.png:maps/mapSprites/Tiny Swords (Update 010)/Factions/Goblins/Troops/Torch/Blue/Torch_Blue-24b825b6b78f8e5276dbc3b3fe77e4d8.png:58099:image/png:1
+d:maps/mapSprites/Tiny Swords (Update 010)/Factions/Goblins/Troops/Torch/Purple:maps/mapSprites/Tiny Swords (Update 010)/Factions/Goblins/Troops/Torch/Purple:0:application/unknown:1
+b:maps/mapSprites/Tiny Swords (Update 010)/Factions/Goblins/Troops/Torch/Purple/Torch_Purple.aseprite:maps/mapSprites/Tiny Swords (Update 010)/Factions/Goblins/Troops/Torch/Purple/Torch_Purple-838fab33ac3717f4666f8fa29340a1bb.aseprite:58659:application/unknown:1
+i:maps/mapSprites/Tiny Swords (Update 010)/Factions/Goblins/Troops/Torch/Purple/Torch_Purple.png:maps/mapSprites/Tiny Swords (Update 010)/Factions/Goblins/Troops/Torch/Purple/Torch_Purple-d32916b0a28e7c1cee4cd144fb6f626f.png:58015:image/png:1
+d:maps/mapSprites/Tiny Swords (Update 010)/Factions/Goblins/Troops/Torch/Red:maps/mapSprites/Tiny Swords (Update 010)/Factions/Goblins/Troops/Torch/Red:0:application/unknown:1
+b:maps/mapSprites/Tiny Swords (Update 010)/Factions/Goblins/Troops/Torch/Red/Torch_Red.aseprite:maps/mapSprites/Tiny Swords (Update 010)/Factions/Goblins/Troops/Torch/Red/Torch_Red-661aaf9a58c93211ab2231505a45e182.aseprite:58618:application/unknown:1
+i:maps/mapSprites/Tiny Swords (Update 010)/Factions/Goblins/Troops/Torch/Red/Torch_Red.png:maps/mapSprites/Tiny Swords (Update 010)/Factions/Goblins/Troops/Torch/Red/Torch_Red-020025537e1943cb542507e13cbcbca9.png:57994:image/png:1
+d:maps/mapSprites/Tiny Swords (Update 010)/Factions/Goblins/Troops/Torch/Yellow:maps/mapSprites/Tiny Swords (Update 010)/Factions/Goblins/Troops/Torch/Yellow:0:application/unknown:1
+b:maps/mapSprites/Tiny Swords (Update 010)/Factions/Goblins/Troops/Torch/Yellow/Torch_Yellow.aseprite:maps/mapSprites/Tiny Swords (Update 010)/Factions/Goblins/Troops/Torch/Yellow/Torch_Yellow-8f0945fa39a8e7396b8ebdde674201dc.aseprite:58665:application/unknown:1
+i:maps/mapSprites/Tiny Swords (Update 010)/Factions/Goblins/Troops/Torch/Yellow/Torch_Yellow.png:maps/mapSprites/Tiny Swords (Update 010)/Factions/Goblins/Troops/Torch/Yellow/Torch_Yellow-3d34a1fd4f7fa66700b8f414115a4e94.png:57947:image/png:1
+d:maps/mapSprites/Tiny Swords (Update 010)/Factions/Knights:maps/mapSprites/Tiny Swords (Update 010)/Factions/Knights:0:application/unknown:1
+d:maps/mapSprites/Tiny Swords (Update 010)/Factions/Knights/Buildings:maps/mapSprites/Tiny Swords (Update 010)/Factions/Knights/Buildings:0:application/unknown:1
+d:maps/mapSprites/Tiny Swords (Update 010)/Factions/Knights/Buildings/Castle:maps/mapSprites/Tiny Swords (Update 010)/Factions/Knights/Buildings/Castle:0:application/unknown:1
+i:maps/mapSprites/Tiny Swords (Update 010)/Factions/Knights/Buildings/Castle/Castle_Blue.png:maps/mapSprites/Tiny Swords (Update 010)/Factions/Knights/Buildings/Castle/Castle_Blue-74e93ccad144ae0d68fb4998834a9578.png:15018:image/png:1
+i:maps/mapSprites/Tiny Swords (Update 010)/Factions/Knights/Buildings/Castle/Castle_Construction.png:maps/mapSprites/Tiny Swords (Update 010)/Factions/Knights/Buildings/Castle/Castle_Construction-4331e932720ebd0f8c96af6be3f9d7c2.png:6339:image/png:1
+i:maps/mapSprites/Tiny Swords (Update 010)/Factions/Knights/Buildings/Castle/Castle_Destroyed.png:maps/mapSprites/Tiny Swords (Update 010)/Factions/Knights/Buildings/Castle/Castle_Destroyed-25c24f820ca4b2d0e343b572ed7feb77.png:11343:image/png:1
+i:maps/mapSprites/Tiny Swords (Update 010)/Factions/Knights/Buildings/Castle/Castle_Purple.png:maps/mapSprites/Tiny Swords (Update 010)/Factions/Knights/Buildings/Castle/Castle_Purple-205dae16365cae1dfe6f7ea214c59788.png:14892:image/png:1
+i:maps/mapSprites/Tiny Swords (Update 010)/Factions/Knights/Buildings/Castle/Castle_Red.png:maps/mapSprites/Tiny Swords (Update 010)/Factions/Knights/Buildings/Castle/Castle_Red-65cbeaf31d5ddd29aaa9cacec45767de.png:15005:image/png:1
+i:maps/mapSprites/Tiny Swords (Update 010)/Factions/Knights/Buildings/Castle/Castle_Yellow.png:maps/mapSprites/Tiny Swords (Update 010)/Factions/Knights/Buildings/Castle/Castle_Yellow-4cf9937e64f5da6ee94c8987288f763b.png:15004:image/png:1
+d:maps/mapSprites/Tiny Swords (Update 010)/Factions/Knights/Buildings/House:maps/mapSprites/Tiny Swords (Update 010)/Factions/Knights/Buildings/House:0:application/unknown:1
+i:maps/mapSprites/Tiny Swords (Update 010)/Factions/Knights/Buildings/House/House_Blue.png:maps/mapSprites/Tiny Swords (Update 010)/Factions/Knights/Buildings/House/House_Blue-6b5592567fc04dcd415a94ce4a227287.png:5264:image/png:1
+i:maps/mapSprites/Tiny Swords (Update 010)/Factions/Knights/Buildings/House/House_Construction.png:maps/mapSprites/Tiny Swords (Update 010)/Factions/Knights/Buildings/House/House_Construction-169f5fed2a1955d8d32d9ded21ed55de.png:2720:image/png:1
+i:maps/mapSprites/Tiny Swords (Update 010)/Factions/Knights/Buildings/House/House_Destroyed.png:maps/mapSprites/Tiny Swords (Update 010)/Factions/Knights/Buildings/House/House_Destroyed-2ff87146cc8dec185bd05e5daa17a81f.png:2855:image/png:1
+i:maps/mapSprites/Tiny Swords (Update 010)/Factions/Knights/Buildings/House/House_Purple.png:maps/mapSprites/Tiny Swords (Update 010)/Factions/Knights/Buildings/House/House_Purple-705f5c5940bcbab641ec51c6d30e7cf0.png:5238:image/png:1
+i:maps/mapSprites/Tiny Swords (Update 010)/Factions/Knights/Buildings/House/House_Red.png:maps/mapSprites/Tiny Swords (Update 010)/Factions/Knights/Buildings/House/House_Red-9335e4a0fc9b6c4ca0d14db3985769ac.png:5267:image/png:1
+i:maps/mapSprites/Tiny Swords (Update 010)/Factions/Knights/Buildings/House/House_Yellow.png:maps/mapSprites/Tiny Swords (Update 010)/Factions/Knights/Buildings/House/House_Yellow-40f63294f338f2bdd559dfaea4b55ce5.png:5275:image/png:1
+d:maps/mapSprites/Tiny Swords (Update 010)/Factions/Knights/Buildings/Tower:maps/mapSprites/Tiny Swords (Update 010)/Factions/Knights/Buildings/Tower:0:application/unknown:1
+i:maps/mapSprites/Tiny Swords (Update 010)/Factions/Knights/Buildings/Tower/Tower_Blue.png:maps/mapSprites/Tiny Swords (Update 010)/Factions/Knights/Buildings/Tower/Tower_Blue-5ff4f270373f8f876da2c46a4295b5c1.png:6546:image/png:1
+i:maps/mapSprites/Tiny Swords (Update 010)/Factions/Knights/Buildings/Tower/Tower_Construction.png:maps/mapSprites/Tiny Swords (Update 010)/Factions/Knights/Buildings/Tower/Tower_Construction-4af9c020637e91af7f28eb8694b619a6.png:2870:image/png:1
+i:maps/mapSprites/Tiny Swords (Update 010)/Factions/Knights/Buildings/Tower/Tower_Destroyed.png:maps/mapSprites/Tiny Swords (Update 010)/Factions/Knights/Buildings/Tower/Tower_Destroyed-e9245f63fa5a9bdc346a4500eb0fb0db.png:4092:image/png:1
+i:maps/mapSprites/Tiny Swords (Update 010)/Factions/Knights/Buildings/Tower/Tower_Purple.png:maps/mapSprites/Tiny Swords (Update 010)/Factions/Knights/Buildings/Tower/Tower_Purple-1554e04914477c6452a3d87583969e9f.png:6492:image/png:1
+i:maps/mapSprites/Tiny Swords (Update 010)/Factions/Knights/Buildings/Tower/Tower_Red.png:maps/mapSprites/Tiny Swords (Update 010)/Factions/Knights/Buildings/Tower/Tower_Red-a2b0fad419b8e30a4f05b23127fbf573.png:6555:image/png:1
+i:maps/mapSprites/Tiny Swords (Update 010)/Factions/Knights/Buildings/Tower/Tower_Yellow.png:maps/mapSprites/Tiny Swords (Update 010)/Factions/Knights/Buildings/Tower/Tower_Yellow-7f39b78fcd413a9db130953d170b3679.png:6553:image/png:1
+d:maps/mapSprites/Tiny Swords (Update 010)/Factions/Knights/Troops:maps/mapSprites/Tiny Swords (Update 010)/Factions/Knights/Troops:0:application/unknown:1
+d:maps/mapSprites/Tiny Swords (Update 010)/Factions/Knights/Troops/Archer:maps/mapSprites/Tiny Swords (Update 010)/Factions/Knights/Troops/Archer:0:application/unknown:1
+d:maps/mapSprites/Tiny Swords (Update 010)/Factions/Knights/Troops/Archer/Archer + Bow:maps/mapSprites/Tiny Swords (Update 010)/Factions/Knights/Troops/Archer/Archer + Bow:0:application/unknown:1
+i:maps/mapSprites/Tiny Swords (Update 010)/Factions/Knights/Troops/Archer/Archer + Bow/Archer_Blue_(NoArms).png:maps/mapSprites/Tiny Swords (Update 010)/Factions/Knights/Troops/Archer/Archer + Bow/Archer_Blue_(NoArms)-5e482cb0a5aa1af9a10f3e3ecd8455d0.png:9394:image/png:1
+i:maps/mapSprites/Tiny Swords (Update 010)/Factions/Knights/Troops/Archer/Archer + Bow/Archer_Bow_Blue.png:maps/mapSprites/Tiny Swords (Update 010)/Factions/Knights/Troops/Archer/Archer + Bow/Archer_Bow_Blue-b23d8b6f144a8b2b8271d3d59228de7c.png:7457:image/png:1
+i:maps/mapSprites/Tiny Swords (Update 010)/Factions/Knights/Troops/Archer/Archer + Bow/Archer_Bow_Purple.png:maps/mapSprites/Tiny Swords (Update 010)/Factions/Knights/Troops/Archer/Archer + Bow/Archer_Bow_Purple-b9f493a83b3899795394b4ea45ff88fa.png:7423:image/png:1
+i:maps/mapSprites/Tiny Swords (Update 010)/Factions/Knights/Troops/Archer/Archer + Bow/Archer_Bow_Red.png:maps/mapSprites/Tiny Swords (Update 010)/Factions/Knights/Troops/Archer/Archer + Bow/Archer_Bow_Red-e4a6494f2c076c9673d8f12a1e9d3389.png:7416:image/png:1
+i:maps/mapSprites/Tiny Swords (Update 010)/Factions/Knights/Troops/Archer/Archer + Bow/Archer_Bow_Yellow.png:maps/mapSprites/Tiny Swords (Update 010)/Factions/Knights/Troops/Archer/Archer + Bow/Archer_Bow_Yellow-bfce63e7f1921bbe2c17ee441eb0fa40.png:7448:image/png:1
+i:maps/mapSprites/Tiny Swords (Update 010)/Factions/Knights/Troops/Archer/Archer + Bow/Archer_Purple_(NoArms).png:maps/mapSprites/Tiny Swords (Update 010)/Factions/Knights/Troops/Archer/Archer + Bow/Archer_Purple_(NoArms)-55d1905d68cf7fd3c2ff4ed6025be1b0.png:9421:image/png:1
+i:maps/mapSprites/Tiny Swords (Update 010)/Factions/Knights/Troops/Archer/Archer + Bow/Archer_Red_(NoArms).png:maps/mapSprites/Tiny Swords (Update 010)/Factions/Knights/Troops/Archer/Archer + Bow/Archer_Red_(NoArms)-686312476aa486ef2bb2abec8d71b0dd.png:9389:image/png:1
+i:maps/mapSprites/Tiny Swords (Update 010)/Factions/Knights/Troops/Archer/Archer + Bow/Archer_Yellow_(NoArms).png:maps/mapSprites/Tiny Swords (Update 010)/Factions/Knights/Troops/Archer/Archer + Bow/Archer_Yellow_(NoArms)-14f3e5788944ade9c06e8c9768f18704.png:9506:image/png:1
+b:maps/mapSprites/Tiny Swords (Update 010)/Factions/Knights/Troops/Archer/Archer + Bow.zip:maps/mapSprites/Tiny Swords (Update 010)/Factions/Knights/Troops/Archer/Archer + Bow-52fc7fcadcc244fb26366c69e54a0955.zip:59056:application/zip:1
+d:maps/mapSprites/Tiny Swords (Update 010)/Factions/Knights/Troops/Archer/Arrow:maps/mapSprites/Tiny Swords (Update 010)/Factions/Knights/Troops/Archer/Arrow:0:application/unknown:1
+i:maps/mapSprites/Tiny Swords (Update 010)/Factions/Knights/Troops/Archer/Arrow/Arrow.png:maps/mapSprites/Tiny Swords (Update 010)/Factions/Knights/Troops/Archer/Arrow/Arrow-b5848fa8ae4cbceeef5a97b69309e43f.png:447:image/png:1
+d:maps/mapSprites/Tiny Swords (Update 010)/Factions/Knights/Troops/Archer/Blue:maps/mapSprites/Tiny Swords (Update 010)/Factions/Knights/Troops/Archer/Blue:0:application/unknown:1
+b:maps/mapSprites/Tiny Swords (Update 010)/Factions/Knights/Troops/Archer/Blue/Archer_Blue.aseprite:maps/mapSprites/Tiny Swords (Update 010)/Factions/Knights/Troops/Archer/Blue/Archer_Blue-411c223ade13c07fbc7cc1dca9feaf2a.aseprite:86109:application/unknown:1
+i:maps/mapSprites/Tiny Swords (Update 010)/Factions/Knights/Troops/Archer/Blue/Archer_Blue.png:maps/mapSprites/Tiny Swords (Update 010)/Factions/Knights/Troops/Archer/Blue/Archer_Blue-c144aa02ddb89fb0972299a2591993a4.png:64044:image/png:1
+d:maps/mapSprites/Tiny Swords (Update 010)/Factions/Knights/Troops/Archer/Purple:maps/mapSprites/Tiny Swords (Update 010)/Factions/Knights/Troops/Archer/Purple:0:application/unknown:1
+b:maps/mapSprites/Tiny Swords (Update 010)/Factions/Knights/Troops/Archer/Purple/Archer_Purlple.aseprite:maps/mapSprites/Tiny Swords (Update 010)/Factions/Knights/Troops/Archer/Purple/Archer_Purlple-6fa8cb8f85ce4aa96986afae3ee84ecd.aseprite:86187:application/unknown:1
+i:maps/mapSprites/Tiny Swords (Update 010)/Factions/Knights/Troops/Archer/Purple/Archer_Purlple.png:maps/mapSprites/Tiny Swords (Update 010)/Factions/Knights/Troops/Archer/Purple/Archer_Purlple-7234dd3a6ed2e572c7077cadd6245048.png:63961:image/png:1
+d:maps/mapSprites/Tiny Swords (Update 010)/Factions/Knights/Troops/Archer/Red:maps/mapSprites/Tiny Swords (Update 010)/Factions/Knights/Troops/Archer/Red:0:application/unknown:1
+b:maps/mapSprites/Tiny Swords (Update 010)/Factions/Knights/Troops/Archer/Red/Archer_Red.aseprite:maps/mapSprites/Tiny Swords (Update 010)/Factions/Knights/Troops/Archer/Red/Archer_Red-a7814f03dd1c73187bcdc3e0b486c219.aseprite:85869:application/unknown:1
+i:maps/mapSprites/Tiny Swords (Update 010)/Factions/Knights/Troops/Archer/Red/Archer_Red.png:maps/mapSprites/Tiny Swords (Update 010)/Factions/Knights/Troops/Archer/Red/Archer_Red-00918447753ce8099f1bc1a279d7c7f2.png:64030:image/png:1
+d:maps/mapSprites/Tiny Swords (Update 010)/Factions/Knights/Troops/Archer/Yellow:maps/mapSprites/Tiny Swords (Update 010)/Factions/Knights/Troops/Archer/Yellow:0:application/unknown:1
+b:maps/mapSprites/Tiny Swords (Update 010)/Factions/Knights/Troops/Archer/Yellow/Archer_Yellow.aseprite:maps/mapSprites/Tiny Swords (Update 010)/Factions/Knights/Troops/Archer/Yellow/Archer_Yellow-0c77cf82d944bc0b2c2f4d8e65e7d46b.aseprite:86182:application/unknown:1
+i:maps/mapSprites/Tiny Swords (Update 010)/Factions/Knights/Troops/Archer/Yellow/Archer_Yellow.png:maps/mapSprites/Tiny Swords (Update 010)/Factions/Knights/Troops/Archer/Yellow/Archer_Yellow-8771ef845443656fac51e1c556fac610.png:64071:image/png:1
+d:maps/mapSprites/Tiny Swords (Update 010)/Factions/Knights/Troops/Dead:maps/mapSprites/Tiny Swords (Update 010)/Factions/Knights/Troops/Dead:0:application/unknown:1
+b:maps/mapSprites/Tiny Swords (Update 010)/Factions/Knights/Troops/Dead/Dead.aseprite:maps/mapSprites/Tiny Swords (Update 010)/Factions/Knights/Troops/Dead/Dead-d86185aa9fbc7f88139ceb51ab83d814.aseprite:6855:application/unknown:1
+i:maps/mapSprites/Tiny Swords (Update 010)/Factions/Knights/Troops/Dead/Dead.png:maps/mapSprites/Tiny Swords (Update 010)/Factions/Knights/Troops/Dead/Dead-d335ad511c1c7056be566fa3626b8105.png:8041:image/png:1
+d:maps/mapSprites/Tiny Swords (Update 010)/Factions/Knights/Troops/Pawn:maps/mapSprites/Tiny Swords (Update 010)/Factions/Knights/Troops/Pawn:0:application/unknown:1
+d:maps/mapSprites/Tiny Swords (Update 010)/Factions/Knights/Troops/Pawn/Blue:maps/mapSprites/Tiny Swords (Update 010)/Factions/Knights/Troops/Pawn/Blue:0:application/unknown:1
+b:maps/mapSprites/Tiny Swords (Update 010)/Factions/Knights/Troops/Pawn/Blue/Pawn_Blue.aseprite:maps/mapSprites/Tiny Swords (Update 010)/Factions/Knights/Troops/Pawn/Blue/Pawn_Blue-0febdd94e9b7064573323d12dca9ddf9.aseprite:41398:application/unknown:1
+i:maps/mapSprites/Tiny Swords (Update 010)/Factions/Knights/Troops/Pawn/Blue/Pawn_Blue.png:maps/mapSprites/Tiny Swords (Update 010)/Factions/Knights/Troops/Pawn/Blue/Pawn_Blue-944a38e2e1e30dc7fd12722cff2ebd6b.png:31565:image/png:1
+d:maps/mapSprites/Tiny Swords (Update 010)/Factions/Knights/Troops/Pawn/Purple:maps/mapSprites/Tiny Swords (Update 010)/Factions/Knights/Troops/Pawn/Purple:0:application/unknown:1
+b:maps/mapSprites/Tiny Swords (Update 010)/Factions/Knights/Troops/Pawn/Purple/Pawn_Purple.aseprite:maps/mapSprites/Tiny Swords (Update 010)/Factions/Knights/Troops/Pawn/Purple/Pawn_Purple-75b6aae9569f727f991c4275c054593a.aseprite:41403:application/unknown:1
+i:maps/mapSprites/Tiny Swords (Update 010)/Factions/Knights/Troops/Pawn/Purple/Pawn_Purple.png:maps/mapSprites/Tiny Swords (Update 010)/Factions/Knights/Troops/Pawn/Purple/Pawn_Purple-2de7cf293bba0601e16f2ac31cba3871.png:31516:image/png:1
+d:maps/mapSprites/Tiny Swords (Update 010)/Factions/Knights/Troops/Pawn/Red:maps/mapSprites/Tiny Swords (Update 010)/Factions/Knights/Troops/Pawn/Red:0:application/unknown:1
+b:maps/mapSprites/Tiny Swords (Update 010)/Factions/Knights/Troops/Pawn/Red/Pawn_Red.aseprite:maps/mapSprites/Tiny Swords (Update 010)/Factions/Knights/Troops/Pawn/Red/Pawn_Red-8a8832259bf4d078bd5a05c5882045c8.aseprite:41351:application/unknown:1
+i:maps/mapSprites/Tiny Swords (Update 010)/Factions/Knights/Troops/Pawn/Red/Pawn_Red.png:maps/mapSprites/Tiny Swords (Update 010)/Factions/Knights/Troops/Pawn/Red/Pawn_Red-aebe0eb1624eef7139d2614a789b91d5.png:31550:image/png:1
+d:maps/mapSprites/Tiny Swords (Update 010)/Factions/Knights/Troops/Pawn/Yellow:maps/mapSprites/Tiny Swords (Update 010)/Factions/Knights/Troops/Pawn/Yellow:0:application/unknown:1
+b:maps/mapSprites/Tiny Swords (Update 010)/Factions/Knights/Troops/Pawn/Yellow/Pawn_Yellow.aseprite:maps/mapSprites/Tiny Swords (Update 010)/Factions/Knights/Troops/Pawn/Yellow/Pawn_Yellow-9e9109b5e246253dee1250a8bc88957d.aseprite:41405:application/unknown:1
+i:maps/mapSprites/Tiny Swords (Update 010)/Factions/Knights/Troops/Pawn/Yellow/Pawn_Yellow.png:maps/mapSprites/Tiny Swords (Update 010)/Factions/Knights/Troops/Pawn/Yellow/Pawn_Yellow-f704afbd4adec1ed7c179acbb2a9a4c8.png:31553:image/png:1
+d:maps/mapSprites/Tiny Swords (Update 010)/Factions/Knights/Troops/Warrior:maps/mapSprites/Tiny Swords (Update 010)/Factions/Knights/Troops/Warrior:0:application/unknown:1
+d:maps/mapSprites/Tiny Swords (Update 010)/Factions/Knights/Troops/Warrior/Blue:maps/mapSprites/Tiny Swords (Update 010)/Factions/Knights/Troops/Warrior/Blue:0:application/unknown:1
+b:maps/mapSprites/Tiny Swords (Update 010)/Factions/Knights/Troops/Warrior/Blue/Warrior_Blue.aseprite:maps/mapSprites/Tiny Swords (Update 010)/Factions/Knights/Troops/Warrior/Blue/Warrior_Blue-dc83fe643bbe0da0b76dad411e98b1a6.aseprite:92707:application/unknown:1
+i:maps/mapSprites/Tiny Swords (Update 010)/Factions/Knights/Troops/Warrior/Blue/Warrior_Blue.png:maps/mapSprites/Tiny Swords (Update 010)/Factions/Knights/Troops/Warrior/Blue/Warrior_Blue-6c1a9a291539ca853914753cf150e9b6.png:84367:image/png:1
+d:maps/mapSprites/Tiny Swords (Update 010)/Factions/Knights/Troops/Warrior/Purple:maps/mapSprites/Tiny Swords (Update 010)/Factions/Knights/Troops/Warrior/Purple:0:application/unknown:1
+b:maps/mapSprites/Tiny Swords (Update 010)/Factions/Knights/Troops/Warrior/Purple/Warrior_Purple.aseprite:maps/mapSprites/Tiny Swords (Update 010)/Factions/Knights/Troops/Warrior/Purple/Warrior_Purple-a59c4cc5e95f2e407b25cba65c8fe883.aseprite:92894:application/unknown:1
+i:maps/mapSprites/Tiny Swords (Update 010)/Factions/Knights/Troops/Warrior/Purple/Warrior_Purple.png:maps/mapSprites/Tiny Swords (Update 010)/Factions/Knights/Troops/Warrior/Purple/Warrior_Purple-d06c5c9728be83d409ba10d9e93b1c22.png:84217:image/png:1
+d:maps/mapSprites/Tiny Swords (Update 010)/Factions/Knights/Troops/Warrior/Red:maps/mapSprites/Tiny Swords (Update 010)/Factions/Knights/Troops/Warrior/Red:0:application/unknown:1
+b:maps/mapSprites/Tiny Swords (Update 010)/Factions/Knights/Troops/Warrior/Red/Warrior_Red.aseprite:maps/mapSprites/Tiny Swords (Update 010)/Factions/Knights/Troops/Warrior/Red/Warrior_Red-4216e8b207dabcfa5d5771d0fbbdefe8.aseprite:92504:application/unknown:1
+i:maps/mapSprites/Tiny Swords (Update 010)/Factions/Knights/Troops/Warrior/Red/Warrior_Red.png:maps/mapSprites/Tiny Swords (Update 010)/Factions/Knights/Troops/Warrior/Red/Warrior_Red-73627a5430ee1e66727d98a8fd4068d3.png:84310:image/png:1
+d:maps/mapSprites/Tiny Swords (Update 010)/Factions/Knights/Troops/Warrior/Yellow:maps/mapSprites/Tiny Swords (Update 010)/Factions/Knights/Troops/Warrior/Yellow:0:application/unknown:1
+b:maps/mapSprites/Tiny Swords (Update 010)/Factions/Knights/Troops/Warrior/Yellow/Warrior_Yellow.aseprite:maps/mapSprites/Tiny Swords (Update 010)/Factions/Knights/Troops/Warrior/Yellow/Warrior_Yellow-c88c21eb8f76bec070df62a69a0b686a.aseprite:92828:application/unknown:1
+i:maps/mapSprites/Tiny Swords (Update 010)/Factions/Knights/Troops/Warrior/Yellow/Warrior_Yellow.png:maps/mapSprites/Tiny Swords (Update 010)/Factions/Knights/Troops/Warrior/Yellow/Warrior_Yellow-e9944b4cb96cdda573bfa160b4e2b716.png:84166:image/png:1
+d:maps/mapSprites/Tiny Swords (Update 010)/Resources:maps/mapSprites/Tiny Swords (Update 010)/Resources:0:application/unknown:1
+d:maps/mapSprites/Tiny Swords (Update 010)/Resources/Gold Mine:maps/mapSprites/Tiny Swords (Update 010)/Resources/Gold Mine:0:application/unknown:1
+i:maps/mapSprites/Tiny Swords (Update 010)/Resources/Gold Mine/GoldMine_Active.png:maps/mapSprites/Tiny Swords (Update 010)/Resources/Gold Mine/GoldMine_Active-4ee0d06dff0ec2fe111e317f90d91c36.png:6913:image/png:1
+i:maps/mapSprites/Tiny Swords (Update 010)/Resources/Gold Mine/GoldMine_Destroyed.png:maps/mapSprites/Tiny Swords (Update 010)/Resources/Gold Mine/GoldMine_Destroyed-77fa85edba091769042a31317e5801d7.png:5137:image/png:1
+i:maps/mapSprites/Tiny Swords (Update 010)/Resources/Gold Mine/GoldMine_Inactive.png:maps/mapSprites/Tiny Swords (Update 010)/Resources/Gold Mine/GoldMine_Inactive-fedcd1c3257e1ed1d35818fe61de993c.png:6546:image/png:1
+d:maps/mapSprites/Tiny Swords (Update 010)/Resources/Resources:maps/mapSprites/Tiny Swords (Update 010)/Resources/Resources:0:application/unknown:1
+i:maps/mapSprites/Tiny Swords (Update 010)/Resources/Resources/G_Idle.png:maps/mapSprites/Tiny Swords (Update 010)/Resources/Resources/G_Idle-ced76a4c3f54e9f3787fdf051cad808a.png:1179:image/png:1
+i:maps/mapSprites/Tiny Swords (Update 010)/Resources/Resources/G_Idle_(NoShadow).png:maps/mapSprites/Tiny Swords (Update 010)/Resources/Resources/G_Idle_(NoShadow)-ed19366a981ce91d27a0de879563e1af.png:1098:image/png:1
+i:maps/mapSprites/Tiny Swords (Update 010)/Resources/Resources/G_Spawn.png:maps/mapSprites/Tiny Swords (Update 010)/Resources/Resources/G_Spawn-720cdfec72228eae5b1253e22520ca1d.png:5902:image/png:1
+i:maps/mapSprites/Tiny Swords (Update 010)/Resources/Resources/M_Idle.png:maps/mapSprites/Tiny Swords (Update 010)/Resources/Resources/M_Idle-b04fd89490c9a08fd31444e5ca36e179.png:1342:image/png:1
+i:maps/mapSprites/Tiny Swords (Update 010)/Resources/Resources/M_Idle_(NoShadow).png:maps/mapSprites/Tiny Swords (Update 010)/Resources/Resources/M_Idle_(NoShadow)-3853d08598f533ac734c5d04dab98335.png:1261:image/png:1
+i:maps/mapSprites/Tiny Swords (Update 010)/Resources/Resources/M_Spawn.png:maps/mapSprites/Tiny Swords (Update 010)/Resources/Resources/M_Spawn-f17b1a7425da7aca8bc2ba4ef2ba9b17.png:7030:image/png:1
+b:maps/mapSprites/Tiny Swords (Update 010)/Resources/Resources/Resources.aseprite:maps/mapSprites/Tiny Swords (Update 010)/Resources/Resources/Resources-94eaaab1e83bc672e39f4b77ecf31339.aseprite:14898:application/unknown:1
+i:maps/mapSprites/Tiny Swords (Update 010)/Resources/Resources/W_Idle.png:maps/mapSprites/Tiny Swords (Update 010)/Resources/Resources/W_Idle-12bff52c2d5f2fe45841816ec279d151.png:775:image/png:1
+i:maps/mapSprites/Tiny Swords (Update 010)/Resources/Resources/W_Idle_(NoShadow).png:maps/mapSprites/Tiny Swords (Update 010)/Resources/Resources/W_Idle_(NoShadow)-5d6cf50987a5dd078436c1a41691f0ad.png:722:image/png:1
+i:maps/mapSprites/Tiny Swords (Update 010)/Resources/Resources/W_Spawn.png:maps/mapSprites/Tiny Swords (Update 010)/Resources/Resources/W_Spawn-dddc448007cdfd31985a9e364fc17c37.png:4583:image/png:1
+d:maps/mapSprites/Tiny Swords (Update 010)/Resources/Sheep:maps/mapSprites/Tiny Swords (Update 010)/Resources/Sheep:0:application/unknown:1
+i:maps/mapSprites/Tiny Swords (Update 010)/Resources/Sheep/HappySheep_All.png:maps/mapSprites/Tiny Swords (Update 010)/Resources/Sheep/HappySheep_All-d5bd1e753dc119ccd874b1146dbf3f14.png:7329:image/png:1
+i:maps/mapSprites/Tiny Swords (Update 010)/Resources/Sheep/HappySheep_Bouncing.png:maps/mapSprites/Tiny Swords (Update 010)/Resources/Sheep/HappySheep_Bouncing-7a5d3c07ced4045bbcc190bd09738f70.png:4144:image/png:1
+i:maps/mapSprites/Tiny Swords (Update 010)/Resources/Sheep/HappySheep_Idle.png:maps/mapSprites/Tiny Swords (Update 010)/Resources/Sheep/HappySheep_Idle-88a52037f4cecc37857c756bf89d361a.png:3092:image/png:1
+b:maps/mapSprites/Tiny Swords (Update 010)/Resources/Sheep/Happy_Sheep.aseprite:maps/mapSprites/Tiny Swords (Update 010)/Resources/Sheep/Happy_Sheep-a7ca8f348fe045924e4c7f5ae59a3c07.aseprite:10287:application/unknown:1
+d:maps/mapSprites/Tiny Swords (Update 010)/Resources/Trees:maps/mapSprites/Tiny Swords (Update 010)/Resources/Trees:0:application/unknown:1
+b:maps/mapSprites/Tiny Swords (Update 010)/Resources/Trees/Tree.aseprite:maps/mapSprites/Tiny Swords (Update 010)/Resources/Trees/Tree-8eeacfc9ad32345b1d7b94cf9d985b93.aseprite:21455:application/unknown:1
+i:maps/mapSprites/Tiny Swords (Update 010)/Resources/Trees/Tree.png:maps/mapSprites/Tiny Swords (Update 010)/Resources/Trees/Tree-761b59156c68af144194eaef68fee3d6.png:21934:image/png:1
+d:maps/mapSprites/Tiny Swords (Update 010)/Terrain:maps/mapSprites/Tiny Swords (Update 010)/Terrain:0:application/unknown:1
+d:maps/mapSprites/Tiny Swords (Update 010)/Terrain/Bridge:maps/mapSprites/Tiny Swords (Update 010)/Terrain/Bridge:0:application/unknown:1
+i:maps/mapSprites/Tiny Swords (Update 010)/Terrain/Bridge/Bridge_All.png:maps/mapSprites/Tiny Swords (Update 010)/Terrain/Bridge/Bridge_All-da0fbf0d2eab2515ec2e3aacfb8de9e4.png:6694:image/png:1
+d:maps/mapSprites/Tiny Swords (Update 010)/Terrain/Ground:maps/mapSprites/Tiny Swords (Update 010)/Terrain/Ground:0:application/unknown:1
+i:maps/mapSprites/Tiny Swords (Update 010)/Terrain/Ground/Shadows.png:maps/mapSprites/Tiny Swords (Update 010)/Terrain/Ground/Shadows-31aa1b4df3d85c52f753e28b39369e85.png:640:image/png:1
+i:maps/mapSprites/Tiny Swords (Update 010)/Terrain/Ground/Tilemap_Elevation.png:maps/mapSprites/Tiny Swords (Update 010)/Terrain/Ground/Tilemap_Elevation-16c24c58eb9da2f6430b9a42c4d7d1d7.png:20530:image/png:1
+i:maps/mapSprites/Tiny Swords (Update 010)/Terrain/Ground/Tilemap_Flat.png:maps/mapSprites/Tiny Swords (Update 010)/Terrain/Ground/Tilemap_Flat-1da6c5cfb9419cfa38f96da93f3833fb.png:28783:image/png:1
+d:maps/mapSprites/Tiny Swords (Update 010)/Terrain/Water:maps/mapSprites/Tiny Swords (Update 010)/Terrain/Water:0:application/unknown:1
+d:maps/mapSprites/Tiny Swords (Update 010)/Terrain/Water/Foam:maps/mapSprites/Tiny Swords (Update 010)/Terrain/Water/Foam:0:application/unknown:1
+b:maps/mapSprites/Tiny Swords (Update 010)/Terrain/Water/Foam/Foam.aseprite:maps/mapSprites/Tiny Swords (Update 010)/Terrain/Water/Foam/Foam-684691c6b20a740a82bd7ad8d3f8c269.aseprite:4895:application/unknown:1
+i:maps/mapSprites/Tiny Swords (Update 010)/Terrain/Water/Foam/Foam.png:maps/mapSprites/Tiny Swords (Update 010)/Terrain/Water/Foam/Foam-54a0478afc236a4911e620f6b3bccd79.png:4910:image/png:1
+d:maps/mapSprites/Tiny Swords (Update 010)/Terrain/Water/Rocks:maps/mapSprites/Tiny Swords (Update 010)/Terrain/Water/Rocks:0:application/unknown:1
+b:maps/mapSprites/Tiny Swords (Update 010)/Terrain/Water/Rocks/Rocks.aseprite:maps/mapSprites/Tiny Swords (Update 010)/Terrain/Water/Rocks/Rocks-3fd5bf7a0aad19c1ea54a262584bcbb0.aseprite:171694:application/unknown:1
+i:maps/mapSprites/Tiny Swords (Update 010)/Terrain/Water/Rocks/Rocks_01.png:maps/mapSprites/Tiny Swords (Update 010)/Terrain/Water/Rocks/Rocks_01-5ed352d6617c84cb7a0ae36695a80e14.png:2197:image/png:1
+i:maps/mapSprites/Tiny Swords (Update 010)/Terrain/Water/Rocks/Rocks_02.png:maps/mapSprites/Tiny Swords (Update 010)/Terrain/Water/Rocks/Rocks_02-f7a1844cc25ab3530f75b2031521cfce.png:2970:image/png:1
+i:maps/mapSprites/Tiny Swords (Update 010)/Terrain/Water/Rocks/Rocks_03.png:maps/mapSprites/Tiny Swords (Update 010)/Terrain/Water/Rocks/Rocks_03-1f2232ec2f0a9ffad668e21181be981e.png:4395:image/png:1
+i:maps/mapSprites/Tiny Swords (Update 010)/Terrain/Water/Rocks/Rocks_04.png:maps/mapSprites/Tiny Swords (Update 010)/Terrain/Water/Rocks/Rocks_04-5d119150db9dc82e9ab11cde880c3bdb.png:5509:image/png:1
+i:maps/mapSprites/Tiny Swords (Update 010)/Terrain/Water/Water.png:maps/mapSprites/Tiny Swords (Update 010)/Terrain/Water/Water-8c65e06089c92573d9b6b94b0d63b39e.png:222:image/png:1
+d:maps/mapSprites/Tiny Swords (Update 010)/UI:maps/mapSprites/Tiny Swords (Update 010)/UI:0:application/unknown:1
+d:maps/mapSprites/Tiny Swords (Update 010)/UI/Banners:maps/mapSprites/Tiny Swords (Update 010)/UI/Banners:0:application/unknown:1
+i:maps/mapSprites/Tiny Swords (Update 010)/UI/Banners/Banner_Connection_Down.png:maps/mapSprites/Tiny Swords (Update 010)/UI/Banners/Banner_Connection_Down-185606c95cdca28745cbd3919de228d6.png:3907:image/png:1
+i:maps/mapSprites/Tiny Swords (Update 010)/UI/Banners/Banner_Connection_Left.png:maps/mapSprites/Tiny Swords (Update 010)/UI/Banners/Banner_Connection_Left-098f049f16999497f679d2415165ee5b.png:4516:image/png:1
+i:maps/mapSprites/Tiny Swords (Update 010)/UI/Banners/Banner_Connection_Right.png:maps/mapSprites/Tiny Swords (Update 010)/UI/Banners/Banner_Connection_Right-266041c841a946cc1adda57187ae0410.png:4640:image/png:1
+i:maps/mapSprites/Tiny Swords (Update 010)/UI/Banners/Banner_Connection_Up.png:maps/mapSprites/Tiny Swords (Update 010)/UI/Banners/Banner_Connection_Up-1696b64b03c7171a8e541d0bddaf7522.png:4347:image/png:1
+i:maps/mapSprites/Tiny Swords (Update 010)/UI/Banners/Banner_Horizontal.png:maps/mapSprites/Tiny Swords (Update 010)/UI/Banners/Banner_Horizontal-b6b91a9d154033edeb8d56ef639acff5.png:4674:image/png:1
+i:maps/mapSprites/Tiny Swords (Update 010)/UI/Banners/Banner_Vertical.png:maps/mapSprites/Tiny Swords (Update 010)/UI/Banners/Banner_Vertical-228d430a05535e774db5419546e522fa.png:4190:image/png:1
+i:maps/mapSprites/Tiny Swords (Update 010)/UI/Banners/Carved_3Slides.png:maps/mapSprites/Tiny Swords (Update 010)/UI/Banners/Carved_3Slides-ccebc507f12208584216f4b9f38ca6c2.png:1973:image/png:1
+i:maps/mapSprites/Tiny Swords (Update 010)/UI/Banners/Carved_9Slides.png:maps/mapSprites/Tiny Swords (Update 010)/UI/Banners/Carved_9Slides-1a8bf8f3627fd5156e77f85c1cecb194.png:4886:image/png:1
+i:maps/mapSprites/Tiny Swords (Update 010)/UI/Banners/Carved_Regular.png:maps/mapSprites/Tiny Swords (Update 010)/UI/Banners/Carved_Regular-3046d898af6818fd2e0aa991d9d75be2.png:1196:image/png:1
+d:maps/mapSprites/Tiny Swords (Update 010)/UI/Buttons:maps/mapSprites/Tiny Swords (Update 010)/UI/Buttons:0:application/unknown:1
+i:maps/mapSprites/Tiny Swords (Update 010)/UI/Buttons/Button_Blue.png:maps/mapSprites/Tiny Swords (Update 010)/UI/Buttons/Button_Blue-47e3f6beabadc727e43896ad4b2afcb8.png:978:image/png:1
+i:maps/mapSprites/Tiny Swords (Update 010)/UI/Buttons/Button_Blue_3Slides.png:maps/mapSprites/Tiny Swords (Update 010)/UI/Buttons/Button_Blue_3Slides-71fd61c14d1c00e8851665cf41970175.png:1827:image/png:1
+i:maps/mapSprites/Tiny Swords (Update 010)/UI/Buttons/Button_Blue_3Slides_Pressed.png:maps/mapSprites/Tiny Swords (Update 010)/UI/Buttons/Button_Blue_3Slides_Pressed-cd3b6240d2c70f84ec3f3ff41af9fea5.png:1421:image/png:1
+i:maps/mapSprites/Tiny Swords (Update 010)/UI/Buttons/Button_Blue_9Slides.png:maps/mapSprites/Tiny Swords (Update 010)/UI/Buttons/Button_Blue_9Slides-58593e24ad37ed71d270c19c95431be8.png:3048:image/png:1
+i:maps/mapSprites/Tiny Swords (Update 010)/UI/Buttons/Button_Blue_9Slides_Pressed.png:maps/mapSprites/Tiny Swords (Update 010)/UI/Buttons/Button_Blue_9Slides_Pressed-637d7129a00cecae9e135e133c86838f.png:2522:image/png:1
+i:maps/mapSprites/Tiny Swords (Update 010)/UI/Buttons/Button_Blue_Pressed.png:maps/mapSprites/Tiny Swords (Update 010)/UI/Buttons/Button_Blue_Pressed-e1ac6ca76eb0b052a6aa2c514ac59501.png:816:image/png:1
+i:maps/mapSprites/Tiny Swords (Update 010)/UI/Buttons/Button_Disable.png:maps/mapSprites/Tiny Swords (Update 010)/UI/Buttons/Button_Disable-676431ad486da047a205f6c91dc60e73.png:812:image/png:1
+i:maps/mapSprites/Tiny Swords (Update 010)/UI/Buttons/Button_Disable_3Slides.png:maps/mapSprites/Tiny Swords (Update 010)/UI/Buttons/Button_Disable_3Slides-eb8f38753d5d291cead470aac37b3316.png:1464:image/png:1
+i:maps/mapSprites/Tiny Swords (Update 010)/UI/Buttons/Button_Disable_9Slides.png:maps/mapSprites/Tiny Swords (Update 010)/UI/Buttons/Button_Disable_9Slides-d57f41d35f5283daf1bd0725685acb9b.png:2578:image/png:1
+i:maps/mapSprites/Tiny Swords (Update 010)/UI/Buttons/Button_Hover.png:maps/mapSprites/Tiny Swords (Update 010)/UI/Buttons/Button_Hover-e8e22eea3a0ddc08f078c2b5fb4117c4.png:997:image/png:1
+i:maps/mapSprites/Tiny Swords (Update 010)/UI/Buttons/Button_Hover_3Slides.png:maps/mapSprites/Tiny Swords (Update 010)/UI/Buttons/Button_Hover_3Slides-ca2859f28a36592aa021b81f87068b78.png:1856:image/png:1
+i:maps/mapSprites/Tiny Swords (Update 010)/UI/Buttons/Button_Hover_9Slides.png:maps/mapSprites/Tiny Swords (Update 010)/UI/Buttons/Button_Hover_9Slides-70aee545070cdad24737b59fd9577628.png:3070:image/png:1
+i:maps/mapSprites/Tiny Swords (Update 010)/UI/Buttons/Button_Red.png:maps/mapSprites/Tiny Swords (Update 010)/UI/Buttons/Button_Red-e070581a66ff31f219f4ba170faf79ff.png:986:image/png:1
+i:maps/mapSprites/Tiny Swords (Update 010)/UI/Buttons/Button_Red_3Slides.png:maps/mapSprites/Tiny Swords (Update 010)/UI/Buttons/Button_Red_3Slides-9a370463bfcdad8b7c352d99352d8240.png:1875:image/png:1
+i:maps/mapSprites/Tiny Swords (Update 010)/UI/Buttons/Button_Red_3Slides_Pressed.png:maps/mapSprites/Tiny Swords (Update 010)/UI/Buttons/Button_Red_3Slides_Pressed-7fab9caf0ac21ae329d161b162dc134c.png:1391:image/png:1
+i:maps/mapSprites/Tiny Swords (Update 010)/UI/Buttons/Button_Red_9Slides.png:maps/mapSprites/Tiny Swords (Update 010)/UI/Buttons/Button_Red_9Slides-64ff39091a4aa35c7a5b1b6f785105f1.png:3077:image/png:1
+i:maps/mapSprites/Tiny Swords (Update 010)/UI/Buttons/Button_Red_9Slides_Pressed.png:maps/mapSprites/Tiny Swords (Update 010)/UI/Buttons/Button_Red_9Slides_Pressed-3bde94e017a06c01c22d52b3e3e82aaf.png:2487:image/png:1
+i:maps/mapSprites/Tiny Swords (Update 010)/UI/Buttons/Button_Red_Pressed.png:maps/mapSprites/Tiny Swords (Update 010)/UI/Buttons/Button_Red_Pressed-e2774f3105fabf4bebae15a490d99b7e.png:789:image/png:1
+d:maps/mapSprites/Tiny Swords (Update 010)/UI/Icons:maps/mapSprites/Tiny Swords (Update 010)/UI/Icons:0:application/unknown:1
+i:maps/mapSprites/Tiny Swords (Update 010)/UI/Icons/Disable_01.png:maps/mapSprites/Tiny Swords (Update 010)/UI/Icons/Disable_01-7c80c0cc92cf02dda90fdaa000f9f337.png:720:image/png:1
+i:maps/mapSprites/Tiny Swords (Update 010)/UI/Icons/Disable_02.png:maps/mapSprites/Tiny Swords (Update 010)/UI/Icons/Disable_02-95abc890dcd7199e8f51e38db320053a.png:673:image/png:1
+i:maps/mapSprites/Tiny Swords (Update 010)/UI/Icons/Disable_03.png:maps/mapSprites/Tiny Swords (Update 010)/UI/Icons/Disable_03-1e171e6d3d567267c18289b466847b4c.png:512:image/png:1
+i:maps/mapSprites/Tiny Swords (Update 010)/UI/Icons/Disable_04.png:maps/mapSprites/Tiny Swords (Update 010)/UI/Icons/Disable_04-308c833b8c204e7b465b46991bf3852f.png:341:image/png:1
+i:maps/mapSprites/Tiny Swords (Update 010)/UI/Icons/Disable_05.png:maps/mapSprites/Tiny Swords (Update 010)/UI/Icons/Disable_05-f20d2eeae250cfa63b10a0e65231ada7.png:475:image/png:1
+i:maps/mapSprites/Tiny Swords (Update 010)/UI/Icons/Disable_06.png:maps/mapSprites/Tiny Swords (Update 010)/UI/Icons/Disable_06-a77f530a7d74f724302a62a7aed91c55.png:484:image/png:1
+i:maps/mapSprites/Tiny Swords (Update 010)/UI/Icons/Disable_07.png:maps/mapSprites/Tiny Swords (Update 010)/UI/Icons/Disable_07-62f9316d50c8c8d851870e712689ee11.png:437:image/png:1
+i:maps/mapSprites/Tiny Swords (Update 010)/UI/Icons/Disable_08.png:maps/mapSprites/Tiny Swords (Update 010)/UI/Icons/Disable_08-289a0e8e63fcdf71398ed7a099186b02.png:435:image/png:1
+i:maps/mapSprites/Tiny Swords (Update 010)/UI/Icons/Disable_09.png:maps/mapSprites/Tiny Swords (Update 010)/UI/Icons/Disable_09-49bf0f9ecd5b3fa7de3e9e300895715c.png:292:image/png:1
+i:maps/mapSprites/Tiny Swords (Update 010)/UI/Icons/Disable_10.png:maps/mapSprites/Tiny Swords (Update 010)/UI/Icons/Disable_10-aab1111c70bb7c6cad177a1b7598a69f.png:520:image/png:1
+i:maps/mapSprites/Tiny Swords (Update 010)/UI/Icons/Pressed_01.png:maps/mapSprites/Tiny Swords (Update 010)/UI/Icons/Pressed_01-4821c3a040402479d37c0b9e660e8d74.png:598:image/png:1
+i:maps/mapSprites/Tiny Swords (Update 010)/UI/Icons/Pressed_02.png:maps/mapSprites/Tiny Swords (Update 010)/UI/Icons/Pressed_02-6642b0972afd119a53856df13ea786c8.png:622:image/png:1
+i:maps/mapSprites/Tiny Swords (Update 010)/UI/Icons/Pressed_03.png:maps/mapSprites/Tiny Swords (Update 010)/UI/Icons/Pressed_03-890a196f6a93bdfef0b74b6080463b6e.png:527:image/png:1
+i:maps/mapSprites/Tiny Swords (Update 010)/UI/Icons/Pressed_04.png:maps/mapSprites/Tiny Swords (Update 010)/UI/Icons/Pressed_04-a0af30d93f7787ddc2341d309dbb9406.png:332:image/png:1
+i:maps/mapSprites/Tiny Swords (Update 010)/UI/Icons/Pressed_05.png:maps/mapSprites/Tiny Swords (Update 010)/UI/Icons/Pressed_05-0800674114c84bf3a204cd3be7909002.png:483:image/png:1
+i:maps/mapSprites/Tiny Swords (Update 010)/UI/Icons/Pressed_06.png:maps/mapSprites/Tiny Swords (Update 010)/UI/Icons/Pressed_06-9d68e2115e767611d0b87e317a8f7f6f.png:480:image/png:1
+i:maps/mapSprites/Tiny Swords (Update 010)/UI/Icons/Pressed_07.png:maps/mapSprites/Tiny Swords (Update 010)/UI/Icons/Pressed_07-25af8a1ea1da74b8edd3dbed675d87a0.png:423:image/png:1
+i:maps/mapSprites/Tiny Swords (Update 010)/UI/Icons/Pressed_08.png:maps/mapSprites/Tiny Swords (Update 010)/UI/Icons/Pressed_08-069d41b4d27058b1b60b92057f5a07dd.png:444:image/png:1
+i:maps/mapSprites/Tiny Swords (Update 010)/UI/Icons/Pressed_09.png:maps/mapSprites/Tiny Swords (Update 010)/UI/Icons/Pressed_09-df8652f0cb5e84c1db7d76f07421e086.png:288:image/png:1
+i:maps/mapSprites/Tiny Swords (Update 010)/UI/Icons/Pressed_10.png:maps/mapSprites/Tiny Swords (Update 010)/UI/Icons/Pressed_10-f882f6c7616390cb1be98d74f1fd2b1b.png:523:image/png:1
+i:maps/mapSprites/Tiny Swords (Update 010)/UI/Icons/Regular_01.png:maps/mapSprites/Tiny Swords (Update 010)/UI/Icons/Regular_01-cbc7f8d6b1615a266af7c7118c170d3b.png:594:image/png:1
+i:maps/mapSprites/Tiny Swords (Update 010)/UI/Icons/Regular_02.png:maps/mapSprites/Tiny Swords (Update 010)/UI/Icons/Regular_02-76df585d773978c6ac3df060e2131eae.png:626:image/png:1
+i:maps/mapSprites/Tiny Swords (Update 010)/UI/Icons/Regular_03.png:maps/mapSprites/Tiny Swords (Update 010)/UI/Icons/Regular_03-bdc6f74334d87d7d6104ba38ec209984.png:546:image/png:1
+i:maps/mapSprites/Tiny Swords (Update 010)/UI/Icons/Regular_04.png:maps/mapSprites/Tiny Swords (Update 010)/UI/Icons/Regular_04-959e1f92695b97742bb07d3935b691ae.png:326:image/png:1
+i:maps/mapSprites/Tiny Swords (Update 010)/UI/Icons/Regular_05.png:maps/mapSprites/Tiny Swords (Update 010)/UI/Icons/Regular_05-56094cc0d7c62cacbdb5bdbee1477d1d.png:466:image/png:1
+i:maps/mapSprites/Tiny Swords (Update 010)/UI/Icons/Regular_06.png:maps/mapSprites/Tiny Swords (Update 010)/UI/Icons/Regular_06-7f260bd4bb918d5aaf8b2f14e7340bf9.png:482:image/png:1
+i:maps/mapSprites/Tiny Swords (Update 010)/UI/Icons/Regular_07.png:maps/mapSprites/Tiny Swords (Update 010)/UI/Icons/Regular_07-52479f604d6948c9e685a7412534c758.png:420:image/png:1
+i:maps/mapSprites/Tiny Swords (Update 010)/UI/Icons/Regular_08.png:maps/mapSprites/Tiny Swords (Update 010)/UI/Icons/Regular_08-4abcb151eb7fcba39446cda7996af4be.png:428:image/png:1
+i:maps/mapSprites/Tiny Swords (Update 010)/UI/Icons/Regular_09.png:maps/mapSprites/Tiny Swords (Update 010)/UI/Icons/Regular_09-5fd6398d666024d92419c8e14fc12497.png:280:image/png:1
+i:maps/mapSprites/Tiny Swords (Update 010)/UI/Icons/Regular_10.png:maps/mapSprites/Tiny Swords (Update 010)/UI/Icons/Regular_10-2655b649097532f18bb3d3d9438c8367.png:510:image/png:1
+d:maps/mapSprites/Tiny Swords (Update 010)/UI/Pointers:maps/mapSprites/Tiny Swords (Update 010)/UI/Pointers:0:application/unknown:1
+i:maps/mapSprites/Tiny Swords (Update 010)/UI/Pointers/01.png:maps/mapSprites/Tiny Swords (Update 010)/UI/Pointers/01-7bbd0b523afd0c2b72262d8e9bd4a924.png:597:image/png:1
+i:maps/mapSprites/Tiny Swords (Update 010)/UI/Pointers/02.png:maps/mapSprites/Tiny Swords (Update 010)/UI/Pointers/02-654423a5433d96b5cf99eb7491024220.png:868:image/png:1
+i:maps/mapSprites/Tiny Swords (Update 010)/UI/Pointers/03.png:maps/mapSprites/Tiny Swords (Update 010)/UI/Pointers/03-f21937bffc6ae640b765882553058aee.png:440:image/png:1
+i:maps/mapSprites/Tiny Swords (Update 010)/UI/Pointers/04.png:maps/mapSprites/Tiny Swords (Update 010)/UI/Pointers/04-8ba00dc4112f8691fed1c37b8c36f974.png:461:image/png:1
+i:maps/mapSprites/Tiny Swords (Update 010)/UI/Pointers/05.png:maps/mapSprites/Tiny Swords (Update 010)/UI/Pointers/05-4c6010fe1b8cf1d23a19d05c9a88d727.png:434:image/png:1
+i:maps/mapSprites/Tiny Swords (Update 010)/UI/Pointers/06.png:maps/mapSprites/Tiny Swords (Update 010)/UI/Pointers/06-a28738d13438092a232816acf3dffe57.png:428:image/png:1
+d:maps/mapSprites/Tiny Swords (Update 010)/UI/Ribbons:maps/mapSprites/Tiny Swords (Update 010)/UI/Ribbons:0:application/unknown:1
+i:maps/mapSprites/Tiny Swords (Update 010)/UI/Ribbons/Ribbon_Blue_3Slides.png:maps/mapSprites/Tiny Swords (Update 010)/UI/Ribbons/Ribbon_Blue_3Slides-cf739ddaf485f03808f336358c4e02ac.png:2775:image/png:1
+i:maps/mapSprites/Tiny Swords (Update 010)/UI/Ribbons/Ribbon_Blue_Connection_Down.png:maps/mapSprites/Tiny Swords (Update 010)/UI/Ribbons/Ribbon_Blue_Connection_Down-9e1063c2e4c918786f579dfcf65b45dd.png:1029:image/png:1
+i:maps/mapSprites/Tiny Swords (Update 010)/UI/Ribbons/Ribbon_Blue_Connection_Down_Pressed.png:maps/mapSprites/Tiny Swords (Update 010)/UI/Ribbons/Ribbon_Blue_Connection_Down_Pressed-fe9606326f62b3b1aa528061f57cc413.png:816:image/png:1
+i:maps/mapSprites/Tiny Swords (Update 010)/UI/Ribbons/Ribbon_Blue_Connection_Left.png:maps/mapSprites/Tiny Swords (Update 010)/UI/Ribbons/Ribbon_Blue_Connection_Left-18fffb73c5d9ed422ff47c249623c2f6.png:1114:image/png:1
+i:maps/mapSprites/Tiny Swords (Update 010)/UI/Ribbons/Ribbon_Blue_Connection_Left_Pressed.png:maps/mapSprites/Tiny Swords (Update 010)/UI/Ribbons/Ribbon_Blue_Connection_Left_Pressed-049303d562b34f415bbd09086ac45d96.png:867:image/png:1
+i:maps/mapSprites/Tiny Swords (Update 010)/UI/Ribbons/Ribbon_Blue_Connection_Right.png:maps/mapSprites/Tiny Swords (Update 010)/UI/Ribbons/Ribbon_Blue_Connection_Right-f56a288ff4fce797a9b503be7273c9a8.png:1095:image/png:1
+i:maps/mapSprites/Tiny Swords (Update 010)/UI/Ribbons/Ribbon_Blue_Connection_Right_Pressed.png:maps/mapSprites/Tiny Swords (Update 010)/UI/Ribbons/Ribbon_Blue_Connection_Right_Pressed-c9bdba1e501836cdfdfb35e1645169d2.png:864:image/png:1
+i:maps/mapSprites/Tiny Swords (Update 010)/UI/Ribbons/Ribbon_Blue_Connection_Up.png:maps/mapSprites/Tiny Swords (Update 010)/UI/Ribbons/Ribbon_Blue_Connection_Up-e9628e0113ce5554e9b64e926d09b985.png:1041:image/png:1
+i:maps/mapSprites/Tiny Swords (Update 010)/UI/Ribbons/Ribbon_Blue_Connection_Up_Pressed.png:maps/mapSprites/Tiny Swords (Update 010)/UI/Ribbons/Ribbon_Blue_Connection_Up_Pressed-e5157feb318b1883604582ecf8cc4728.png:752:image/png:1
+i:maps/mapSprites/Tiny Swords (Update 010)/UI/Ribbons/Ribbon_Red_3Slides.png:maps/mapSprites/Tiny Swords (Update 010)/UI/Ribbons/Ribbon_Red_3Slides-fcc814069433ca3dff020cd53f305146.png:2783:image/png:1
+i:maps/mapSprites/Tiny Swords (Update 010)/UI/Ribbons/Ribbon_Red_Connection_Down.png:maps/mapSprites/Tiny Swords (Update 010)/UI/Ribbons/Ribbon_Red_Connection_Down-fb18d9dec63dee847d9fdb68f7ee78a8.png:1035:image/png:1
+i:maps/mapSprites/Tiny Swords (Update 010)/UI/Ribbons/Ribbon_Red_Connection_Down_Pressed.png:maps/mapSprites/Tiny Swords (Update 010)/UI/Ribbons/Ribbon_Red_Connection_Down_Pressed-8158c123450df4f5fddf38ba01084a0d.png:811:image/png:1
+i:maps/mapSprites/Tiny Swords (Update 010)/UI/Ribbons/Ribbon_Red_Connection_Left.png:maps/mapSprites/Tiny Swords (Update 010)/UI/Ribbons/Ribbon_Red_Connection_Left-0a9efbc9413b2c97abdf8ea0f28eb88c.png:1129:image/png:1
+i:maps/mapSprites/Tiny Swords (Update 010)/UI/Ribbons/Ribbon_Red_Connection_Left_Pressed.png:maps/mapSprites/Tiny Swords (Update 010)/UI/Ribbons/Ribbon_Red_Connection_Left_Pressed-638516a5c1796d4125e02ff4680ceff7.png:872:image/png:1
+i:maps/mapSprites/Tiny Swords (Update 010)/UI/Ribbons/Ribbon_Red_Connection_Right.png:maps/mapSprites/Tiny Swords (Update 010)/UI/Ribbons/Ribbon_Red_Connection_Right-76a400bdeff288ce45e5198ed872fb32.png:1101:image/png:1
+i:maps/mapSprites/Tiny Swords (Update 010)/UI/Ribbons/Ribbon_Red_Connection_Right_Pressed.png:maps/mapSprites/Tiny Swords (Update 010)/UI/Ribbons/Ribbon_Red_Connection_Right_Pressed-91daf77ee333f41522716a347f7dee57.png:859:image/png:1
+i:maps/mapSprites/Tiny Swords (Update 010)/UI/Ribbons/Ribbon_Red_Connection_Up.png:maps/mapSprites/Tiny Swords (Update 010)/UI/Ribbons/Ribbon_Red_Connection_Up-61c5ac4618488a1185adbe162f3eacc8.png:1051:image/png:1
+i:maps/mapSprites/Tiny Swords (Update 010)/UI/Ribbons/Ribbon_Red_Connection_Up_Pressed.png:maps/mapSprites/Tiny Swords (Update 010)/UI/Ribbons/Ribbon_Red_Connection_Up_Pressed-c7369817ab92529099e7910b3ed0eef5.png:753:image/png:1
+i:maps/mapSprites/Tiny Swords (Update 010)/UI/Ribbons/Ribbon_Yellow_3Slides.png:maps/mapSprites/Tiny Swords (Update 010)/UI/Ribbons/Ribbon_Yellow_3Slides-a3bbe093dc9efd44d124b2bff04a9664.png:2804:image/png:1
+i:maps/mapSprites/Tiny Swords (Update 010)/UI/Ribbons/Ribbon_Yellow_Connection_Down.png:maps/mapSprites/Tiny Swords (Update 010)/UI/Ribbons/Ribbon_Yellow_Connection_Down-1dad853f5600b3d7aa59f4c8de40eeba.png:1047:image/png:1
+i:maps/mapSprites/Tiny Swords (Update 010)/UI/Ribbons/Ribbon_Yellow_Connection_Down_Pressed.png:maps/mapSprites/Tiny Swords (Update 010)/UI/Ribbons/Ribbon_Yellow_Connection_Down_Pressed-ec8ac1d4d9afff53d65f5f21c3368fde.png:824:image/png:1
+i:maps/mapSprites/Tiny Swords (Update 010)/UI/Ribbons/Ribbon_Yellow_Connection_Left.png:maps/mapSprites/Tiny Swords (Update 010)/UI/Ribbons/Ribbon_Yellow_Connection_Left-214218807aefce072cbcc2fe8de14bd0.png:1123:image/png:1
+i:maps/mapSprites/Tiny Swords (Update 010)/UI/Ribbons/Ribbon_Yellow_Connection_Left_Pressed.png:maps/mapSprites/Tiny Swords (Update 010)/UI/Ribbons/Ribbon_Yellow_Connection_Left_Pressed-8dc5072847206bd608f2a89832b8eec6.png:858:image/png:1
+i:maps/mapSprites/Tiny Swords (Update 010)/UI/Ribbons/Ribbon_Yellow_Connection_Right.png:maps/mapSprites/Tiny Swords (Update 010)/UI/Ribbons/Ribbon_Yellow_Connection_Right-e37a0f94ca0d677708dd0c2b3da4c211.png:1119:image/png:1
+i:maps/mapSprites/Tiny Swords (Update 010)/UI/Ribbons/Ribbon_Yellow_Connection_Right_Pressed.png:maps/mapSprites/Tiny Swords (Update 010)/UI/Ribbons/Ribbon_Yellow_Connection_Right_Pressed-05dc0454e1f0e77eb3861b276ae941aa.png:864:image/png:1
+i:maps/mapSprites/Tiny Swords (Update 010)/UI/Ribbons/Ribbon_Yellow_Connection_Up.png:maps/mapSprites/Tiny Swords (Update 010)/UI/Ribbons/Ribbon_Yellow_Connection_Up-c23667ce3bd4618dfe712194f4a2d6f3.png:1056:image/png:1
+i:maps/mapSprites/Tiny Swords (Update 010)/UI/Ribbons/Ribbon_Yellow_Connection_Up_Pressed.png:maps/mapSprites/Tiny Swords (Update 010)/UI/Ribbons/Ribbon_Yellow_Connection_Up_Pressed-0e7a7cbe0b0bb80b887c00e92c762b7d.png:761:image/png:1
+d:maps/mapSprites/vacaroxa--generic-old-west-graphics--v.1.0:maps/mapSprites/vacaroxa--generic-old-west-graphics--v.1.0:0:application/unknown:1
+d:maps/mapSprites/vacaroxa--generic-old-west-graphics--v.1.0/Generic Old West Graphicis:maps/mapSprites/vacaroxa--generic-old-west-graphics--v.1.0/Generic Old West Graphicis:0:application/unknown:1
+i:maps/mapSprites/vacaroxa--generic-old-west-graphics--v.1.0/Generic Old West Graphicis/Atlas.png:maps/mapSprites/vacaroxa--generic-old-west-graphics--v.1.0/Generic Old West Graphicis/Atlas-1bd4dfa94f4f2b680d5d76667f2f2d76.png:55886:image/png:1
+d:maps/mapSprites/vacaroxa--generic-old-west-graphics--v.1.0/Generic Old West Graphicis/Buildings:maps/mapSprites/vacaroxa--generic-old-west-graphics--v.1.0/Generic Old West Graphicis/Buildings:0:application/unknown:1
+i:maps/mapSprites/vacaroxa--generic-old-west-graphics--v.1.0/Generic Old West Graphicis/Buildings/buildings.png:maps/mapSprites/vacaroxa--generic-old-west-graphics--v.1.0/Generic Old West Graphicis/Buildings/buildings-792b5a363986f507d965284a72e5d8ec.png:15793:image/png:1
+d:maps/mapSprites/vacaroxa--generic-old-west-graphics--v.1.0/Generic Old West Graphicis/Font:maps/mapSprites/vacaroxa--generic-old-west-graphics--v.1.0/Generic Old West Graphicis/Font:0:application/unknown:1
+i:maps/mapSprites/vacaroxa--generic-old-west-graphics--v.1.0/Generic Old West Graphicis/Font/Font.png:maps/mapSprites/vacaroxa--generic-old-west-graphics--v.1.0/Generic Old West Graphicis/Font/Font-77c45d405243972c121efc147d2a272d.png:992:image/png:1
+d:maps/mapSprites/vacaroxa--generic-old-west-graphics--v.1.0/Generic Old West Graphicis/FX:maps/mapSprites/vacaroxa--generic-old-west-graphics--v.1.0/Generic Old West Graphicis/FX:0:application/unknown:1
+i:maps/mapSprites/vacaroxa--generic-old-west-graphics--v.1.0/Generic Old West Graphicis/FX/Death Explosion.png:maps/mapSprites/vacaroxa--generic-old-west-graphics--v.1.0/Generic Old West Graphicis/FX/Death Explosion-ecd73290281c0668f802d511c542d735.png:2787:image/png:1
+d:maps/mapSprites/vacaroxa--generic-old-west-graphics--v.1.0/Generic Old West Graphicis/Mobs:maps/mapSprites/vacaroxa--generic-old-west-graphics--v.1.0/Generic Old West Graphicis/Mobs:0:application/unknown:1
+d:maps/mapSprites/vacaroxa--generic-old-west-graphics--v.1.0/Generic Old West Graphicis/Mobs/Cactus:maps/mapSprites/vacaroxa--generic-old-west-graphics--v.1.0/Generic Old West Graphicis/Mobs/Cactus:0:application/unknown:1
+i:maps/mapSprites/vacaroxa--generic-old-west-graphics--v.1.0/Generic Old West Graphicis/Mobs/Cactus/Cactus Back Sheet.png:maps/mapSprites/vacaroxa--generic-old-west-graphics--v.1.0/Generic Old West Graphicis/Mobs/Cactus/Cactus Back Sheet-c7c1368c4542e1ef0f0ad13457c023ce.png:8292:image/png:1
+i:maps/mapSprites/vacaroxa--generic-old-west-graphics--v.1.0/Generic Old West Graphicis/Mobs/Cactus/Cactus Front Sheet.png:maps/mapSprites/vacaroxa--generic-old-west-graphics--v.1.0/Generic Old West Graphicis/Mobs/Cactus/Cactus Front Sheet-7010325f2be5a7d87bb49b020312cca7.png:9959:image/png:1
+i:maps/mapSprites/vacaroxa--generic-old-west-graphics--v.1.0/Generic Old West Graphicis/Mobs/Cactus/Cactus Side Sheet.png:maps/mapSprites/vacaroxa--generic-old-west-graphics--v.1.0/Generic Old West Graphicis/Mobs/Cactus/Cactus Side Sheet-5fb4af2e988b1e5af1fc5f5965a8dc05.png:8111:image/png:1
+d:maps/mapSprites/vacaroxa--generic-old-west-graphics--v.1.0/Generic Old West Graphicis/Mobs/Coffin:maps/mapSprites/vacaroxa--generic-old-west-graphics--v.1.0/Generic Old West Graphicis/Mobs/Coffin:0:application/unknown:1
+i:maps/mapSprites/vacaroxa--generic-old-west-graphics--v.1.0/Generic Old West Graphicis/Mobs/Coffin/Coffin Back Sheet.png:maps/mapSprites/vacaroxa--generic-old-west-graphics--v.1.0/Generic Old West Graphicis/Mobs/Coffin/Coffin Back Sheet-5b39d7f2dce49c834701245bf71e3387.png:11277:image/png:1
+i:maps/mapSprites/vacaroxa--generic-old-west-graphics--v.1.0/Generic Old West Graphicis/Mobs/Coffin/Coffin Front Sheet.png:maps/mapSprites/vacaroxa--generic-old-west-graphics--v.1.0/Generic Old West Graphicis/Mobs/Coffin/Coffin Front Sheet-d0702eef0913f718b1e4b50e92ee3e24.png:16684:image/png:1
+i:maps/mapSprites/vacaroxa--generic-old-west-graphics--v.1.0/Generic Old West Graphicis/Mobs/Coffin/Coffin Side Sheet.png:maps/mapSprites/vacaroxa--generic-old-west-graphics--v.1.0/Generic Old West Graphicis/Mobs/Coffin/Coffin Side Sheet-839836e7074a8052f8f053697eef1a85.png:11573:image/png:1
+d:maps/mapSprites/vacaroxa--generic-old-west-graphics--v.1.0/Generic Old West Graphicis/Mobs/Coyote:maps/mapSprites/vacaroxa--generic-old-west-graphics--v.1.0/Generic Old West Graphicis/Mobs/Coyote:0:application/unknown:1
+i:maps/mapSprites/vacaroxa--generic-old-west-graphics--v.1.0/Generic Old West Graphicis/Mobs/Coyote/Coyote Back Sheet.png:maps/mapSprites/vacaroxa--generic-old-west-graphics--v.1.0/Generic Old West Graphicis/Mobs/Coyote/Coyote Back Sheet-ca7f4762f031240e982963faec2aa4d3.png:21078:image/png:1
+i:maps/mapSprites/vacaroxa--generic-old-west-graphics--v.1.0/Generic Old West Graphicis/Mobs/Coyote/Coyote Front Sheet.png:maps/mapSprites/vacaroxa--generic-old-west-graphics--v.1.0/Generic Old West Graphicis/Mobs/Coyote/Coyote Front Sheet-acee16a41f44b83d9ba2e33573b85791.png:24816:image/png:1
+i:maps/mapSprites/vacaroxa--generic-old-west-graphics--v.1.0/Generic Old West Graphicis/Mobs/Coyote/Coyote Side Sheet.png:maps/mapSprites/vacaroxa--generic-old-west-graphics--v.1.0/Generic Old West Graphicis/Mobs/Coyote/Coyote Side Sheet-d08827a6f9579dd356f123492a8276da.png:19234:image/png:1
+d:maps/mapSprites/vacaroxa--generic-old-west-graphics--v.1.0/Generic Old West Graphicis/NPC:maps/mapSprites/vacaroxa--generic-old-west-graphics--v.1.0/Generic Old West Graphicis/NPC:0:application/unknown:1
+i:maps/mapSprites/vacaroxa--generic-old-west-graphics--v.1.0/Generic Old West Graphicis/NPC/NPC's.png:maps/mapSprites/vacaroxa--generic-old-west-graphics--v.1.0/Generic Old West Graphicis/NPC/NPC's-488b6b613d3cf4308d55b5368b005070.png:4496:image/png:1
+d:maps/mapSprites/vacaroxa--generic-old-west-graphics--v.1.0/Generic Old West Graphicis/Player:maps/mapSprites/vacaroxa--generic-old-west-graphics--v.1.0/Generic Old West Graphicis/Player:0:application/unknown:1
+i:maps/mapSprites/vacaroxa--generic-old-west-graphics--v.1.0/Generic Old West Graphicis/Player/Player Angle 1 Sheet.png:maps/mapSprites/vacaroxa--generic-old-west-graphics--v.1.0/Generic Old West Graphicis/Player/Player Angle 1 Sheet-e8a6f31541a9fbf7b69267b60357eb1c.png:10619:image/png:1
+i:maps/mapSprites/vacaroxa--generic-old-west-graphics--v.1.0/Generic Old West Graphicis/Player/Player Angle 2 Sheet.png:maps/mapSprites/vacaroxa--generic-old-west-graphics--v.1.0/Generic Old West Graphicis/Player/Player Angle 2 Sheet-221a1ff81fc7594ad7cdbdc18107f7dd.png:10339:image/png:1
+i:maps/mapSprites/vacaroxa--generic-old-west-graphics--v.1.0/Generic Old West Graphicis/Player/Player Back Sheet.png:maps/mapSprites/vacaroxa--generic-old-west-graphics--v.1.0/Generic Old West Graphicis/Player/Player Back Sheet-f417af8650e9a909aceba12308da2e71.png:10224:image/png:1
+i:maps/mapSprites/vacaroxa--generic-old-west-graphics--v.1.0/Generic Old West Graphicis/Player/Player Front Sheet.png:maps/mapSprites/vacaroxa--generic-old-west-graphics--v.1.0/Generic Old West Graphicis/Player/Player Front Sheet-fa2c3cc3ca4973ec240debebe2decf6c.png:10757:image/png:1
+i:maps/mapSprites/vacaroxa--generic-old-west-graphics--v.1.0/Generic Old West Graphicis/Player/Player Side Sheet.png:maps/mapSprites/vacaroxa--generic-old-west-graphics--v.1.0/Generic Old West Graphicis/Player/Player Side Sheet-c6cb47bcdac8af6d31dd2f6c5060c380.png:10406:image/png:1
+i:maps/mapSprites/vacaroxa--generic-old-west-graphics--v.1.0/Generic Old West Graphicis/Player/Unused Walk and Shoot.png:maps/mapSprites/vacaroxa--generic-old-west-graphics--v.1.0/Generic Old West Graphicis/Player/Unused Walk and Shoot-9a29707be392768fbd2daeba2e7ab7cc.png:6161:image/png:1
+b:maps/premade_buildings_demo.tsx:maps/premade_buildings_demo-b781613b697c784462eb2bd7c17cb62e.tsx:299:application/unknown:1
+b:maps/RPG_Nature_Tileset.tsx:maps/RPG_Nature_Tileset-444b08c3890512a5778d4721010d7538.tsx:265:application/unknown:1
+b:maps/Sculpture_01.tsx:maps/Sculpture_01-0b083a8c3018439d5d78e41ed7c25eb4.tsx:250:application/unknown:1
+b:maps/Tower_Blue.tsx:maps/Tower_Blue-d61c2acae8c4a1c4843b99848da969b2.tsx:306:application/unknown:1
+b:maps/Tower_Purple.tsx:maps/Tower_Purple-50a5ed8a63e6f5c6c2bfb3cae890fb06.tsx:310:application/unknown:1
+b:maps/Tower_Red.tsx:maps/Tower_Red-3cc91f4407d9b3bfafb22e554c7e77b5.tsx:304:application/unknown:1
+b:maps/Tower_Yellow.tsx:maps/Tower_Yellow-032c5fac3257bc0d5ebdb799d0d1e29d.tsx:310:application/unknown:1
+b:maps/Warrior_Purple.tsx:maps/Warrior_Purple-401a7fc5f477d568a086682b9497199f.tsx:324:application/unknown:1
+d:objects:objects:0:application/unknown:1
+i:objects/bicycle.png:objects/bicycle-a7961d2604df4124903b1112cc2a4831.png:336:image/png:1
+i:objects/car_left.png:objects/car_left-bfbaff7329a80a7bb82243b53cb96e54.png:985:image/png:1
+i:phoneScreen.png:phoneScreen-14e4eddad071579d608aadbdb883bc77.png:9031:image/png:1
+d:saves:saves:0:application/unknown:1
+t:saves/example.json:saves/example-fd8922fe78364650fa47c66ca08ea70b.json:240:application/json:1
+d:skin:skin:0:application/unknown:1
+t:skin/font-export.fnt:skin/font-export-ede6e1f3a80793df09092107b9fd1a47.fnt:9908:application/unknown:1
+t:skin/font-title-export.fnt:skin/font-title-export-e8780948b01769c03631aa235be75557.fnt:10179:application/unknown:1
+t:skin/star-soldier-ui.atlas:skin/star-soldier-ui-0f02d12a8712c16619461b48d13fe869.atlas:4355:application/unknown:1
+t:skin/star-soldier-ui.json:skin/star-soldier-ui-209975f5a4ffb96eff452315e43d1a2b.json:3871:application/json:1
+i:skin/star-soldier-ui.png:skin/star-soldier-ui-54fc56be65c994914551173215b7d702.png:174218:image/png:1
+b:trialMap.tmx:trialMap-e8b7c5600aea9a1a0e2798b1da224f78.tmx:769356:application/unknown:1
+b:trialMapwithObjects.tmx:trialMapwithObjects-edb1784aa33dedb1813d0b5243fa2a26.tmx:568058:application/unknown:1
+t:uiskin.atlas:uiskin-175528bad7e00ee104ab38ebdca5cd3b.atlas:3125:application/unknown:1
+t:uiskin.json:uiskin-9d2f1f611476989c4c3ee357b54eb1b6.json:2503:application/json:1
+i:uiskin.png:uiskin-34b28ea01f92a90fa485f007870f9eff.png:28299:image/png:1
+t:com/badlogic/gdx/graphics/g3d/particles/particles.fragment.glsl:particles.fragment-b90524761fdf09b0a836056d590c30b8.glsl:820:application/unknown:1
+t:com/badlogic/gdx/graphics/g3d/particles/particles.vertex.glsl:particles.vertex-f25b8b2fae10b9bfa09bfdd484923148.glsl:2886:application/unknown:1
+t:com/badlogic/gdx/graphics/g3d/shaders/default.fragment.glsl:default.fragment-e1c018bd48044c8b67c7bbc53145e540.glsl:5874:application/unknown:1
+t:com/badlogic/gdx/graphics/g3d/shaders/default.vertex.glsl:default.vertex-28b7e77ea3f282ebd5b066ba256692c3.glsl:9096:application/unknown:1
+t:com/badlogic/gdx/graphics/g3d/shaders/depth.fragment.glsl:depth.fragment-8341d5ce47fc398da575c9e294b6821b.glsl:869:application/unknown:1
+t:com/badlogic/gdx/graphics/g3d/shaders/depth.vertex.glsl:depth.vertex-98a450f1f747c05eedb7122779187316.glsl:2931:application/unknown:1
+t:com/badlogic/gdx/utils/lsans-15.fnt:lsans-15-5143ae9583bc43b1084f98062e054ae8.fnt:17711:application/unknown:1
+i:com/badlogic/gdx/utils/lsans-15.png:lsans-15-8e00ff5b9dd15a3c18c1eb75f68c695a.png:10270:image/png:1
