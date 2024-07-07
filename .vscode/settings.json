@@ -4,5 +4,5 @@
     "footprint/src/main/java/com/hotmomcircle"
   ],
   "maven.view": "flat",
-  "java.configuration.updateBuildConfiguration": "interactive"
+  "java.configuration.updateBuildConfiguration": "disabled"
 }
