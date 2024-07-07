@@ -6,8 +6,6 @@ import com.badlogic.gdx.graphics.g2d.BitmapFont;
 import com.badlogic.gdx.graphics.g2d.SpriteBatch;
 import com.badlogic.gdx.math.Rectangle;
 import com.hotmomcircle.transport_game.GameScreen;
-import com.badlogic.gdx.graphics.g2d.freetype.FreeTypeFontGenerator;
-import com.badlogic.gdx.graphics.g2d.freetype.FreeTypeFontGenerator.FreeTypeFontParameter;
 
 // Interactable transport objects (car, bike etc.)
 public abstract class Transport_OBJ extends Object {
@@ -18,10 +16,7 @@ public abstract class Transport_OBJ extends Object {
 	//BitmapFont font = new BitmapFont(Gdx.files.internal("fonts/game_font.ttf"));
 	
 	public BitmapFont create () {
-		FreeTypeFontGenerator generator = new FreeTypeFontGenerator(Gdx.files.internal("fonts/game_font.ttf"));
-		FreeTypeFontParameter parameter = new FreeTypeFontParameter();
-		parameter.size = 16;
-		return generator.generateFont(parameter);
+		return new BitmapFont(Gdx.files.internal("fonts/font.fnt"));
 	}
 	
 	public void render(SpriteBatch batch) throws Exception{
