@@ -1,8 +1,5 @@
 package com.hotmomcircle.transport_game;
 
-import java.time.LocalDateTime;
-import java.time.format.DateTimeFormatter;
-
 import com.badlogic.gdx.Game;
 import com.badlogic.gdx.Gdx;
 import com.badlogic.gdx.files.FileHandle;
@@ -76,10 +73,10 @@ public class TransportGame extends Game {
 	
 	public void newGame(String name) {
 //		Add time to fileName to make it unique for every save
-        LocalDateTime currentTime = LocalDateTime.now();
-        DateTimeFormatter formatter = DateTimeFormatter.ofPattern("yyyy-MM-dd_HH-mm-ss");
-        String currentTimeString = currentTime.format(formatter);
-        fileName = name + currentTimeString + ".json";
+        // LocalDateTime currentTime = LocalDateTime.now();
+        // DateTimeFormatter formatter = DateTimeFormatter.ofPattern("yyyy-MM-dd_HH-mm-ss");
+        // String currentTimeString = currentTime.format(formatter);
+        fileName = name + ".json";
 		new ParentGame(this, name, fileName);
 	}
 	
