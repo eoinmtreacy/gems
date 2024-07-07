@@ -71,18 +71,18 @@ public class ParentGame implements Json.Serializable{
 		
 //		Load in the player transport
 		String[] transportPaths = {
-			    "./foot/player_up1.png", "./foot/player_up2.png",
-			    "./foot/player_down1.png", "./foot/player_down2.png",
-			    "./foot/player_left1.png", "./foot/player_left2.png",
-			    "./foot/player_right1.png", "./foot/player_right2.png",
-			    "./bicycle/bike_up1.png", "./bicycle/bike_up2.png",
-			    "./bicycle/bike_down1.png", "./bicycle/bike_down2.png",
-			    "./bicycle/bike_left1.png", "./bicycle/bike_left2.png",
-			    "./bicycle/bike_right1.png", "./bicycle/bike_right2.png",
-			    "./car/car_up.png", "./car/car_up.png",
-			    "./car/car_down.png", "./car/car_down.png",
-			    "./car/car_left.png", "./car/car_left.png",
-			    "./car/car_right.png", "./car/car_right.png"
+			    "foot/player_up1.png", "foot/player_up2.png",
+			    "foot/player_down1.png", "foot/player_down2.png",
+			    "foot/player_left1.png", "foot/player_left2.png",
+			    "foot/player_right1.png", "foot/player_right2.png",
+			    "bicycle/bike_up1.png", "bicycle/bike_up2.png",
+			    "bicycle/bike_down1.png", "bicycle/bike_down2.png",
+			    "bicycle/bike_left1.png", "bicycle/bike_left2.png",
+			    "bicycle/bike_right1.png", "bicycle/bike_right2.png",
+			    "car/car_up.png", "car/car_up.png",
+			    "car/car_down.png", "car/car_down.png",
+			    "car/car_left.png", "car/car_left.png",
+			    "car/car_right.png", "car/car_right.png"
 			};
 		
 		for(String path: transportPaths) {
@@ -93,8 +93,8 @@ public class ParentGame implements Json.Serializable{
 //		Load in the objects (gem, bike_OBJ, car_OBJ
 		String[] objectPaths = {
 				"gem.png",
-				"./objects/bicycle.png",
-				"./objects/car_left.png"
+				"objects/bicycle.png",
+				"objects/car_left.png"
 		};
 		
 		for(String path: objectPaths) {

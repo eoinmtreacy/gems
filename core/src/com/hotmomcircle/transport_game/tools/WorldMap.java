@@ -111,14 +111,13 @@ public class WorldMap {
 					batch.draw(gem.image, gem.getX()-256, gem.getY()-64, 750,750);
 				}
 				for (Transport_OBJ bike: bike_OBJs){
-					batch.draw(game.assetManager.get("./objects/bicycle.png", Texture.class), bike.getX()-128, bike.getY()-64, 512,512);
+					batch.draw(game.assetManager.get("objects/bicycle.png", Texture.class), bike.getX()-128, bike.getY()-64, 512,512);
 				}
 				for (Transport_OBJ car: car_OBJs){
-					batch.draw(game.assetManager.get("./objects/car_left.png", Texture.class), car.getX()-128, car.getY()-64, 512,512);
+					batch.draw(game.assetManager.get("objects/car_left.png", Texture.class), car.getX()-128, car.getY()-64, 512,512);
 				}
 				
 			} catch (Exception e) {
-				// TODO Auto-generated catch block
 				e.printStackTrace();
 			}
 			batch.end();

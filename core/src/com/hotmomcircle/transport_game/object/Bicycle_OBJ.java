@@ -14,8 +14,8 @@ public class Bicycle_OBJ extends Transport_OBJ {
 		this.x = x;
 		this.y = y;
 
-		objImg = game.assetManager.get("./objects/bicycle.png", Texture.class);
-		
+		objImg = game.assetManager.get("objects/bicycle.png", Texture.class);
+
 //		Interaction rectangle
 		this.interactable = true;
 		interactionRadius = new Rectangle(x, y, game.getTileSize()*2, game.getTileSize()*2);

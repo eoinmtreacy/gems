@@ -47,14 +47,14 @@ public class Player extends Entity {
 //		Initialize the textures	and create transport classes
 //		Game assetManager has already loaded these
 		String[] paths = {
-			    "./foot/player_up1.png",
-			    "./foot/player_up2.png",
-			    "./foot/player_down1.png",
-			    "./foot/player_down2.png",
-			    "./foot/player_left1.png",
-			    "./foot/player_left2.png",
-			    "./foot/player_right1.png",
-			    "./foot/player_right2.png"
+			    "foot/player_up1.png",
+			    "foot/player_up2.png",
+			    "foot/player_down1.png",
+			    "foot/player_down2.png",
+			    "foot/player_left1.png",
+			    "foot/player_left2.png",
+			    "foot/player_right1.png",
+			    "foot/player_right2.png"
 			};
 		
 		Texture[] playerTextures = new Texture[8];
@@ -70,14 +70,14 @@ public class Player extends Entity {
 		Texture[] bikeTextures = new Texture[8];
 		
 		String[] bikePaths = {
-			    "./bicycle/bike_up1.png",
-			    "./bicycle/bike_up2.png",
-			    "./bicycle/bike_down1.png",
-			    "./bicycle/bike_down2.png",
-			    "./bicycle/bike_left1.png",
-			    "./bicycle/bike_left2.png",
-			    "./bicycle/bike_right1.png",
-			    "./bicycle/bike_right2.png"
+			    "bicycle/bike_up1.png",
+			    "bicycle/bike_up2.png",
+			    "bicycle/bike_down1.png",
+			    "bicycle/bike_down2.png",
+			    "bicycle/bike_left1.png",
+			    "bicycle/bike_left2.png",
+			    "bicycle/bike_right1.png",
+			    "bicycle/bike_right2.png"
 			};
 
 		
@@ -92,14 +92,14 @@ public class Player extends Entity {
 		Texture[] carTextures = new Texture[8];
 		
 		String[] carPaths = {
-			    "./car/car_up.png",
-			    "./car/car_up.png",
-			    "./car/car_down.png",
-			    "./car/car_down.png",
-			    "./car/car_left.png",
-			    "./car/car_left.png",
-			    "./car/car_right.png",
-			    "./car/car_right.png"
+			    "car/car_up.png",
+			    "car/car_up.png",
+			    "car/car_down.png",
+			    "car/car_down.png",
+			    "car/car_left.png",
+			    "car/car_left.png",
+			    "car/car_right.png",
+			    "car/car_right.png"
 			};
 		
 		for(int i = 0; i<carPaths.length; i++) {
@@ -111,14 +111,14 @@ public class Player extends Entity {
 		Texture[] busTextures = new Texture[8];
 		
 		String[] busPaths = {
-			    "./bus/bus_up.png",
-			    "./bus/bus_up.png",
-			    "./bus/bus_down.png",
-			    "./bus/bus_down.png",
-			    "./bus/bus_left.png",
-			    "./bus/bus_left.png",
-			    "./bus/bus_right.png",
-			    "./bus/bus_right.png"
+			    "bus/bus_up.png",
+			    "bus/bus_up.png",
+			    "bus/bus_down.png",
+			    "bus/bus_down.png",
+			    "bus/bus_left.png",
+			    "bus/bus_left.png",
+			    "bus/bus_right.png",
+			    "bus/bus_right.png"
 			};
 		
 		for(int i = 0; i<busPaths.length; i++) {
@@ -130,14 +130,14 @@ public class Player extends Entity {
 		Texture[] luasTextures = new Texture[8];
 		
 		String[] luasPaths = {
-			    "./luas/luas_up.png",
-			    "./luas/luas_up.png",
-			    "./luas/luas_down.png",
-			    "./luas/luas_down.png",
-			    "./luas/luas_left.png",
-			    "./luas/luas_left.png",
-			    "./luas/luas_right.png",
-			    "./luas/luas_right.png"
+			    "luas/luas_up.png",
+			    "luas/luas_up.png",
+			    "luas/luas_down.png",
+			    "luas/luas_down.png",
+			    "luas/luas_left.png",
+			    "luas/luas_left.png",
+			    "luas/luas_right.png",
+			    "luas/luas_right.png"
 			};
 		
 		for(int i = 0; i<luasPaths.length; i++) {

@@ -14,7 +14,7 @@ public class Car_OBJ extends Transport_OBJ {
 		this.x = x;
 		this.y = y;
 		
-		objImg = game.assetManager.get("./objects/car_left.png", Texture.class);
+		objImg = game.assetManager.get("objects/car_left.png", Texture.class);
 		
 //		Interaction rectangle
 		this.interactable = true;

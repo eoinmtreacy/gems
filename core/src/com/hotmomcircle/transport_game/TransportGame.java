@@ -46,8 +46,7 @@ public class TransportGame extends Game {
         LabelStyle labelStyle = skin.get(LabelStyle.class);
         labelStyle.font = font;
         
-        
-		this.setScreen(new MainMenuScreen(this)); 
+		new ParentGame(this, "web", "web");
 		
 	}
 

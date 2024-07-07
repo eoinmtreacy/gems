@@ -164,7 +164,7 @@ public class GameScreen implements Screen, Json.Serializable {
 		
 		int pX = levelData.get("player").getInt("x");
 		int pY = levelData.get("player").getInt("y");
-		player = new Player(this, pX, pY, 32, 32, "./foot/player_down1.png");
+		player = new Player(this, pX, pY, 32, 32, "foot/player_down1.png");
 
 		// UI scores
 		points = new Points("0", skin);
@@ -229,22 +229,22 @@ public class GameScreen implements Screen, Json.Serializable {
 		
 //		Load in the player transport
 		String[] transportPaths = {
-			    "./foot/player_up1.png", "./foot/player_up2.png",
-			    "./foot/player_down1.png", "./foot/player_down2.png",
-			    "./foot/player_left1.png", "./foot/player_left2.png",
-			    "./foot/player_right1.png", "./foot/player_right2.png",
-			    "./bicycle/bike_up1.png", "./bicycle/bike_up2.png",
-			    "./bicycle/bike_down1.png", "./bicycle/bike_down2.png",
-			    "./bicycle/bike_left1.png", "./bicycle/bike_left2.png",
-			    "./bicycle/bike_right1.png", "./bicycle/bike_right2.png",
-			    "./car/car_up.png", "./car/car_up.png",
-			    "./car/car_down.png", "./car/car_down.png",
-			    "./car/car_left.png", "./car/car_left.png",
-			    "./car/car_right.png", "./car/car_right.png",
-				"./bus/bus_left.png", "./bus/bus_right.png",
-				"./bus/bus_up.png", "./bus/bus_down.png",
-				"./luas/luas_up.png", "./luas/luas_down.png",
-				"./luas/luas_right.png", "./luas/luas_left.png"
+			    "foot/player_up1.png", "foot/player_up2.png",
+			    "foot/player_down1.png", "foot/player_down2.png",
+			    "foot/player_left1.png", "foot/player_left2.png",
+			    "foot/player_right1.png", "foot/player_right2.png",
+			    "bicycle/bike_up1.png", "bicycle/bike_up2.png",
+			    "bicycle/bike_down1.png", "bicycle/bike_down2.png",
+			    "bicycle/bike_left1.png", "bicycle/bike_left2.png",
+			    "bicycle/bike_right1.png", "bicycle/bike_right2.png",
+			    "car/car_up.png", "car/car_up.png",
+			    "car/car_down.png", "car/car_down.png",
+			    "car/car_left.png", "car/car_left.png",
+			    "car/car_right.png", "car/car_right.png",
+				"bus/bus_left.png", "bus/bus_right.png",
+				"bus/bus_up.png", "bus/bus_down.png",
+				"luas/luas_up.png", "luas/luas_down.png",
+				"luas/luas_right.png", "luas/luas_left.png"
 			};
 		
 		for(String path: transportPaths) {
@@ -255,8 +255,8 @@ public class GameScreen implements Screen, Json.Serializable {
 //		Load in the objects (gem, bike_OBJ, car_OBJ
 		String[] objectPaths = {
 				"gem.png",
-				"./objects/bicycle.png",
-				"./objects/car_left.png"
+				"objects/bicycle.png",
+				"objects/car_left.png"
 		};
 		
 		for(String path: objectPaths) {
@@ -718,7 +718,7 @@ public class GameScreen implements Screen, Json.Serializable {
 		// TODO Auto-generated method stub
 		int x = jsonData.getInt("playerX");
 		int y = jsonData.getInt("playerY");
-		player = new Player(this, x, y, tileSize, tileSize, "./foot/player_down1.png");
+		player = new Player(this, x, y, tileSize, tileSize, "foot/player_down1.png");
 		
 //		Load gems from levels file
 		for (JsonValue gemLoc = jsonData.get("gems").child; gemLoc != null; gemLoc = gemLoc.next) {
